@@ -16,12 +16,10 @@
 - [No Super Suit Route](http://pastebin.com/raw/BpQUepug)
 - [SMRPG Wiki](https://sites.google.com/site/supermariorpgspeedruns/)
 
------
-
 ## Table of Contents
 
 - Star 1
-  - [Bowser's Keep]()
+  - [Bowser's Keep](#bowsers-keep)
   - [Mario's Pad]()
   - [Mushroom Way]()
   - [Mushroom Kingdom]()
@@ -53,7 +51,6 @@
   - [Nimbus Land]()
   - [Barrel Volcano]()
 - Star 7
-  - [Mario's Pad]()
   - [Bowser's Castle]()
   - [Factory]()
   - [Smithy]()
