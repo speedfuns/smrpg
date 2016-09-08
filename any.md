@@ -51,7 +51,7 @@
   - [Nimbus Land]()
   - [Barrel Volcano]()
 - Star 7
-  - [Bowser's Castle]()
+  - [Return to Bowser's Keep]()
   - [Factory]()
   - [Smithy]()
 
