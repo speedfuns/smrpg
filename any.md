@@ -1,7 +1,5 @@
 # Super Mario RPG (Any%)
 
-![](http://i.imgur.com/yhZWsey.jpg)
-
 ## Records
 [speedrun.com](http://www.speedrun.com/smrpg)
 
@@ -62,7 +60,17 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 ## Bowser's Keep
 
 ### Terrapins
+| Enemy | Action |
+| --- | --- |
+| Terrapin | Untimed Attack |
+| Terrapin | Untimed Jump |
+| Terrapin | Untimed Jump |
+| Terrapin | Untimed Jump |
 
 1 untimed attack, 3 untimed jumps
 
-[http://www.twitch.tv/millnium/v/47941768](Terrapin manipulation)
+[Terrapin manipulation](http://www.twitch.tv/millnium/v/47941768)
+
+### Bowser
+
+
