@@ -1,7 +1,7 @@
 # Super Mario RPG (Any%)
 
 ## Records
-- [speedrun.com](http://www.speedrun.com/smrpg)
+[speedrun.com](http://www.speedrun.com/smrpg)
 
 ## Route Rules
 No restriction other than cheats, emulator functions (like frame skip, turbo)
