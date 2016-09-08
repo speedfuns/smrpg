@@ -60,17 +60,19 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 ## Bowser's Keep
 
 ### Terrapins
-| Enemy | Action |
-| --- | --- |
-| Terrapin | Untimed Attack |
-| Terrapin | Untimed Jump |
-| Terrapin | Untimed Jump |
-| Terrapin | Untimed Jump |
-
-1 untimed attack, 3 untimed jumps
 
 [Terrapin manipulation](http://www.twitch.tv/millnium/v/47941768)
 
+| | Enemy | Hero | Action |
+| --: | --- | --- | --- |
+| 1 | Terrapin | Mario | Untimed Attack |
+| 2 | Terrapin | Mario | Untimed Jump |
+| 3 | Terrapin | Mario | Untimed Jump |
+| 4 | Terrapin | Mario | Untimed Jump |
+
 ### Bowser
 
-
+| | Enemy | Hero | Action |
+| --: | --- | --- | --- |
+| 1 | Kinklink | Mario | Untimed Jump |
+| 2 | Kinklink | Mario | Untimed Jump |
