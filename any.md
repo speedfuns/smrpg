@@ -4,11 +4,11 @@
 - [speedrun.com](http://www.speedrun.com/smrpg)
 
 ## Route Rules
-- No restriction other than cheats, emulator functions (like frame skip, turbo)
+No restriction other than cheats, emulator functions (like frame skip, turbo)
 
-- Starts timer on power-on and ends when THE END is fully displayed after credits. You may start from file name but add 14 seconds to your time if you did so.
+Starts timer on power-on and ends when THE END is fully displayed after credits. You may start from file name but add 14 seconds to your time if you did so.
 
-- Japanese version saves ~9 minutes in text. Official rankings no longer give the English version a conversion for text differences.
+Japanese version saves ~9 minutes in text. Official rankings no longer give the English version a conversion for text differences.
 
 ## Links
 
