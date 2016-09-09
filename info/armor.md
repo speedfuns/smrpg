@@ -19,4 +19,47 @@
 | Sailor Shirt | 30 | 15 | 50 |
 | Fuzzy Shirt | 36 | 18 | 70 |
 | Fire Shirt | 42 | 21 | 90 |
-| Hero Shirt | 48 | 24 | 100 | Mushro
+| Hero Shirt | 48 | 24 | 100 |
+
+## Mallow
+
+| | DEF | M.DEF | Cost |
+| :-- | --: | --: | --: |
+| Pants | 6 | 3 | 7 |
+| Thick Pants | 12 | 6 | 14 |
+| Mega Pants | 18 | 9 | 22 |
+| Happy Pants | 24 | 12 | 38 |
+| Sailor Pants | 30 | 15 | 50 |
+| Fuzzy Pants | 36 | 18 | 70 |
+| Fire Pants | 42 | 21 | 90 |
+| Prince Pants | 48 | 24 | 100 |
+
+## Geno
+
+| | DEF | M.DEF | Cost |
+| :-- | --: | --: | --: |
+| Mega Cape | 6 | 3 | 22 |
+| Happy Cape | 12 | 6 | 38 |
+| Sailor Cape | 18 | 9 | 50 |
+| Fuzzy Cape | 24 | 12 | 70 |
+| Fire Cape | 30 | 15 | 90 |
+| Prince Cape | 36 | 18 | 100 |
+
+## Bowser
+
+| | DEF | M.DEF | Cost |
+| :-- | --: | --: | --: |
+| Happy Shell | 6 | 3 | 38 |
+| Courage Shell | 12 | 6 | 60 |
+| Fire Shell | 18 | 9 | 90 |
+| Heal Shell | 24 | 12 | 100 |
+
+## Toadstool
+
+| | DEF | M.DEF | Cost |
+| :-- | --: | --: | --: |
+| Polka Dress | 24 | 12 | |
+| Nautica Dress | 30 | 15 | 50 |
+| Fuzzy Dress | 36 | 18 | 60 |
+| Fire Dress | 2 | 21 | 90 |
+| Royal Dress | 48 | 24 | 100 |
