@@ -10,7 +10,7 @@
 | Exp. Booster | | | | | | :frog: 22 | Doubles your experience |
 | Fearless Pin | | | 5 | | 5 | 130 | Nullifies fear |
 | Feather | 20 | | 5 | | 5 | | Win from Dodo's statue game |
-| Ghost Medal | | | | | | | 1/2 DEF and M.D |
+| Ghost Medal | | | | | | | .5 damage |
 | Jinx Belt | 12 | 27 | 27 | | | | Prevents instant KO |
 | Jump Shoes | 2 | | 1 | 5 | 1 | 30 | Mario only - allows jump on any enemy |
-| Quartz Charm | | | | | | | 1/2 damage, ATK increased by 50%, prevents instant KO |
+| Quartz Charm | | | | | | | .5 damage, 1.5 offense, prevents instant KO |
