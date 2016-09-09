@@ -2,7 +2,7 @@
 
 ## Everyone
 
-| | SPD | ATK | DEF | M.ATK | M.DEF | Notes |
+| | SPD | ATK | DEF | M.A | M.D | Notes |
 | :-- | --: | --: | --: | --: | --: | :-- |
 | Work Pants | 5 | 10 | 15 | 10 | 5 | |
 | Super Jacket | 30 | 50 | 50 | 50 | 50 | Nullifies elemental attacks and status ailments |
@@ -10,7 +10,7 @@
 
 ## Mario
 
-| | DEF | M.DEF | Cost |
+| | DEF | M.D | Cost |
 | :-- | --: | --: | --: |
 | Shirt | 6 | 6 | 7 |
 | Thick Shirt | 12 | 8 | 14 |
@@ -23,7 +23,7 @@
 
 ## Mallow
 
-| | DEF | M.DEF | Cost |
+| | DEF | M.D | Cost |
 | :-- | --: | --: | --: |
 | Pants | 6 | 3 | 7 |
 | Thick Pants | 12 | 6 | 14 |
@@ -36,7 +36,7 @@
 
 ## Geno
 
-| | DEF | M.DEF | Cost |
+| | DEF | M.D | Cost |
 | :-- | --: | --: | --: |
 | Mega Cape | 6 | 3 | 22 |
 | Happy Cape | 12 | 6 | 38 |
@@ -47,7 +47,7 @@
 
 ## Bowser
 
-| | DEF | M.DEF | Cost |
+| | DEF | M.D | Cost |
 | :-- | --: | --: | --: |
 | Happy Shell | 6 | 3 | 38 |
 | Courage Shell | 12 | 6 | 60 |
@@ -56,7 +56,7 @@
 
 ## Toadstool
 
-| | DEF | M.DEF | Cost |
+| | DEF | M.D | Cost |
 | :-- | --: | --: | --: |
 | Polka Dress | 24 | 12 | |
 | Nautica Dress | 30 | 15 | 50 |
