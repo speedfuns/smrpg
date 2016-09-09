@@ -6,14 +6,15 @@
 
 `int(max(1,(PA + WP + rand(-P,P) - PD)) * T)`
 
-`int` = round down
-`max` = max integer from a list
-`PA` = character's attack stat
-`WP` = weapon's attack stat
-`rand` = random choice between two numbers
-`P` = `WP * 0.1`, with some exceptions
-`PD` = enemy's defense stat
-`T` = timed attack multiplier (`1` untimed, `1.5` if timed correctly, or `2` if perfect)
+- `int` = round down
+- `max` = max integer from a list
+- `rand` = random choice between two numbers
+
+- `P` = `WP * 0.1`, with some exceptions
+- `PA` = character's attack stat
+- `PD` = enemy's defense stat
+- `T` = timed attack multiplier (`1` untimed, `1.5` if timed correctly, or `2` if perfect)
+- `WP` = weapon's attack stat
 
 ## Weapon Statistics
 
