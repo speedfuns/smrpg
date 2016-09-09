@@ -233,18 +233,18 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
 | 500 | 30 | 25 | 15 | 20 | 30 | 40 | Sleep | Lightning |
 
-| | Character | Action | DMG | Action | Enemy |
-| --: | :-- | :-- | --: | :-- | :-- |
+| | Character | Action | DMG | Enemy |
+| --: | :-- | :-- | --: | :-- |
 | 1 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 | 2 | Mario | Jump | |
 | | Mallow | Honey Syrup | |
 | 3 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
-| | | | | Scarecrow | Belome |
+| | | Scarecrow | | Belome |
 | 4 | Mario | Jump | |
 | | Mallow | Honey Syrup | |
-| | | | | Swallow | Belome |
+| | | Swallow | | Belome |
 | 5 | Mario | Jump | |
 | 6 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
