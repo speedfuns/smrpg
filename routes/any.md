@@ -32,8 +32,8 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
   - [Midas River](#midas-river)
   - [Tadpole Pond](#tadpole-pond)
   - [Rose Way](#rose-way)
-  - [Rose Town]()
-  - [Forest Maze]()
+  - [Rose Town](#rose-town)
+  - [Forest Maze](#forest-maze)
 - Star 3
   - [Pipe Vault]()
   - [Moleville]()
@@ -323,6 +323,10 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - Jump 10x times on wiggler for 1 frog coin
 - MINIMAL MOVEMENT
 - Do this 7 times (leave with 11 frog coins)
+  - -1 if you're going to the Forest Secret
+  - -4 if you're going to Pipe Vault
+  - -1 if you're going to the Shy Guy in the Mines
+  - -1 if you're going to Booster's Pass Secret
 
 ### Post-Wiggler Syndrome
 
@@ -368,7 +372,4 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | Mario | Defend | |
 | | Mallow | Defend | |
 | 8 | Geno | Geno Beam | 90 |
-| | Mario | Jump | 40 |
-| | Mallow | Defend | |
-| 9 | Geno | Attack | 60 |
 
