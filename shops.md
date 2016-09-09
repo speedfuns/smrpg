@@ -185,3 +185,21 @@
 | :tea: | Pick Me Up | 5 | |
 | :tea: | Able Juice | 4 | |
 | :tea: | Freshen Up | 50 | |
+
+## Sea/Sunken Ship Shop
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :punch: | Hurly Gloves | 92 | Bowser only |
+| :punch: | Super Hammer | 70 | Mario only |
+| :punch: | Hand Gun | 75 | Geno only |
+| :punch: | Whomp Glove | 72 | Mallow only |
+| :shirt: | Sailor Shirt | 50 | Mario only |
+| :shirt: | Sailor Pants | 50 | Mallow only |
+| :shirt: | Sailor Cape | 50 | Geno only |
+| :shirt: | Nautica Dress | 50 | Toadstool only |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
