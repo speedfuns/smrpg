@@ -17,3 +17,9 @@
 | Rare Scarf | | 15 | | 15 | 150 | | Nimbus Land vines |
 | Safety Badge | | | 5 | | 5 | | Nullifies mute and poison |
 | Safety Ring | 5 | | 5 | | 5 | | Nullifies elemental attacks and instant KO |
+| Scrooge Ring | | | | | | | Halves FP used |
+| Signal Ring | 10 | | | | | | Beeps when in a room with a hidden chest |
+| Troopa Pin | 20 | | | | | | 1.5 offense |
+| Trueform Pin | | | 4 | | 4 | 60 | Nullifies scarecrow and mushroom |
+| Wake Up Pin | | | 3 | | 3 | 42 | Nullifies sleep |
+| Zoom Shoes | 10 | | 5 | | 5 | 200 | Found in Booster's Tower |
