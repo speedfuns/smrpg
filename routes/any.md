@@ -278,13 +278,13 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - There are 53 coins in this section, so you can miss 6
 - Aim for 60 total to skip a text box I guess.
 
-## :frog: Tadpole Pond
+## Tadpole Pond
 
 ### Juice Bar
 
 | Buy | # |
 | :-- | --: |
-| Froggie Drink | 3 |
+| Froggie Drink | 2 |
 
 ### Frog Coin Emporium
 
@@ -292,3 +292,83 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | :-- | --: |
 | Sleepy Bomb | 2 |
 | Energizer | 1 |
+
+## Rose Way
+
+- Get 2x 10 coin things
+
+## Rose Town
+
+- Go down the chimney into the shop
+- Get flower
+- Get hidden frog coin
+
+### Pink Toad
+
+| Buy | # |
+| :-- | --: |
+| Wake Up Pin | 2 |
+
+- Go steal the guy's 2x flowers
+- Get hidden frog coin upstairs
+- Go to the Geno cutscenes
+
+## Forest Maze
+
+- Get hidden KeroKeroCola in first screen
+
+### Wiggler Jumps
+
+- Summon Satan
+- Jump 10x times on wiggler for 1 frog coin
+- MINIMAL MOVEMENT
+- Do this 7 times (leave with 11 frog coins)
+
+### Post-Wiggler Syndrome
+
+- Get hidden frog coin after first underground area
+- Get hidden KeroKeroCola behind sleepy wiggler
+- Get hidden Red Essence in the save point area
+
+### The Maze
+
+- Mario's perspective, from entrance:
+  - Secret Area
+    - Left, Left, Straight, Right
+  - Bowyer
+    - Right, Left, Straight, Right, Left, Left
+
+### Bowyer
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 720 | 50 | 40 | 30 | 35 | 60 | 50 | All ailments | |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Attack | 40 |
+| | Mario | Jump | 39 |
+| | Mallow | Energizer Geno | |
+| 2 | Geno | Attack | 60 |
+| | Mario | Jump | 39 |
+| | Mallow | Attack | 2 |
+| 3 | Geno | Geno Beam | 90 |
+| | Mario | Heal | |
+| | Mallow | Honey Syrup | |
+| 4 | Geno | Geno Beam | 90 |
+| | Mario | Heal / Defend | |
+| | Mallow | Heal / Defend | |
+| 5 | Geno | Geno Beam | 90 |
+| | Mario | Defend | |
+| | Mallow | Defend | |
+| 6 | Geno | Geno Beam | 90 |
+| | Mario | Defend | |
+| | Mallow | Defend | |
+| 7 | Geno | Geno Beam | 90 |
+| | Mario | Defend | |
+| | Mallow | Defend | |
+| 8 | Geno | Geno Beam | 90 |
+| | Mario | Jump | 40 |
+| | Mallow | Defend | |
+| 9 | Geno | Attack | 60 |
+
