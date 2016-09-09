@@ -21,10 +21,10 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - Star 1
   - [Bowser's Keep](#bowsers-keep)
   - [Mario's Pad](#marios-pad)
-  - [Mushroom Way]()
-  - [Mushroom Kingdom]()
-  - [Bandit's Way]()
-  - [Mack Skip]()
+  - [Mushroom Way](#mushroom-way)
+  - [Mushroom Kingdom](#mushroom-kingdom)
+  - [Bandit's Way](#bandits-way)
+  - [Mack Skip](#mack-skip)
 - Star 2
   - [Kero Sewers]()
   - [Rose Town]()
@@ -96,9 +96,26 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Hammer Bros
 
-| | Enemy | Hero | Action |
-| --: | --- | --- | --- |
-| 1 | Hammer Bro 1 | Mario | Jump |
-| 2 | Hammer Bro 2 | Mario | Jump |
-| 3 | Hammer Bro 1 | Mario | Untimed Attack |
-| 4 | Hammer Bro 2 | Mario | Untimed Jump |
+| | Enemy | HP | Hero | Action | DMG |
+| --: | --- | --: | --- | --- | --: |
+| 1 | Hammer Bro 1 | 50 | Mario | Jump | 43 |
+| 2 | Hammer Bro 2 | 50 | Mario | Jump | 45 |
+| 3 | Hammer Bro 1 | 7 | Mario | Untimed Attack |
+| 4 | Hammer Bro 2 | 5 | Mario | Untimed Jump |
+
+## Mushroom Kingdom
+
+- Hold right after entering and head to the shop
+
+| Sell | Coins | |
+| --- | --: | --: |
+| Mushroom | 000 | 1 |
+| Flower Jar | 000 | 1 |
+
+| Buy | Coins | |
+| --- | --: | --: |
+| Honey Syrup | 000 | 5 |
+| Pick Me Up | 000 | 4 |
+| Able Juice | 000 | 4 |
+| Shirt | 000 | 1 |
+| Jump Shoes | 000 | 1 |
