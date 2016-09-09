@@ -98,12 +98,12 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Hammer Bros
 
-| | Enemy | Hero | Action | DMG |
+| | Character | Enemy | Action | DMG |
 | --: | :-- | :-- | :-- | --: |
-| 1 | Hammer Bro 1 | Mario | Jump | 43 |
-| 2 | Hammer Bro 2 | Mario | Jump | 45 |
-| 3 | Hammer Bro 1 | Mario | Untimed Attack | |
-| 4 | Hammer Bro 2 | Mario | Untimed Jump | |
+| 1 | Mario | Hammer Bro | Jump | 43 |
+| 2 | Mario | Hammer Bro 2 | Jump | 45 |
+| 3 | Mario | Hammer Bro | Untimed Attack | |
+| 4 | Mario | Hammer Bro 2 | Untimed Jump | |
 
 ## Mushroom Kingdom
 
@@ -171,21 +171,21 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
-| 1 | **Mario** | Jump | 46 |
+| 1 | Mario | Jump | 46 |
 | | Mallow | Defend | |
-| 2 | **Mario** | Jump | 46 |
+| 2 | Mario | Jump | 46 |
 | | Mallow | Defend | |
-| 3 | **Mario** | Jump | 48 |
+| 3 | Mario | Jump | 48 |
 | | Mallow | Honey Syrup | |
-| 4 | **Mario** | Jump | 48 |
+| 4 | Mario | Jump | 48 |
 | | Mallow | Defend / Honey Syrup | |
-| 5 | **Mario** | Jump | 49 |
+| 5 | Mario | Jump | 49 |
 | | Mallow | Defend | |
-| 6 | **Mario** | Jump | 49 |
+| 6 | Mario | Jump | 49 |
 | | Mallow | Defend / Honey Syrup | |
-| 7 | **Mario** | Jump | 51 |
+| 7 | Mario | Jump | 51 |
 | | Mallow | Defend | |
-| 8 | **Mario** | Jump | 51 |
+| 8 | Mario | Jump | 51 |
 | | Mallow | Defend | |
 
 > If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
