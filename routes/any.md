@@ -167,7 +167,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
 | :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
-| Croco | 25 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
+| Croco | 320 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
