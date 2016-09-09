@@ -64,7 +64,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 [Terrapin manipulation](http://www.twitch.tv/millnium/v/47941768)
 
 | | Enemy | Hero | Action |
-| --: | --- | --- | --- |
+| --: | :-- | :-- | :-- |
 | 1 | Terrapin | Mario | Untimed Attack |
 | 2 | Terrapin | Mario | Untimed Jump |
 | 3 | Terrapin | Mario | Untimed Jump |
@@ -73,7 +73,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 ### Bowser
 
 | | Enemy | Hero | Action |
-| --: | --- | --- | --- |
+| --: | :-- | :-- | :-- |
 | 1 | Kinklink | Mario | Untimed Jump |
 | 2 | Kinklink | Mario | Untimed Jump |
 
@@ -97,7 +97,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 ### Hammer Bros
 
 | | Enemy | HP | Hero | Action | DMG |
-| --: | --- | --: | --- | --- | --: |
+| --: | :-- | --: | :-- | :-- | --: |
 | 1 | Hammer Bro 1 | 50 | Mario | Jump | 43 |
 | 2 | Hammer Bro 2 | 50 | Mario | Jump | 45 |
 | 3 | Hammer Bro 1 | 7 | Mario | Untimed Attack |
@@ -108,7 +108,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - Hold right after entering and head to the shop
 
 | Action | Item | |
-| --- | --- | --: |
+| :-- | :-- | --: |
 | Buy | Mushroom | 1 |
 |     | Flower Jar | 1 |
 | Sell | Honey Syrup | 5 |
@@ -116,3 +116,71 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | Able Juice | 4 |
 | | Shirt | 1 |
 | | Jump Shoes | 1 |
+
+### Equip
+
+| Mario |
+| :-- | 
+| Hammer |
+| Shirt |
+| Jump Shoes |
+
+> Getting the flower in the basement is safer than relying on Doge Jump in Bandit's Way, but it is slower and not completely necessary.
+
+- Get the Frog Coin in the Castle before the Throne Room.
+
+## Bandit's Way
+
+### Room 1
+
+- Bottom Path
+
+### Room 2
+
+- Jump straight down and land on left petal of the rotating flower
+- Skip stepping on very first platform
+- Don't get platform coins, they make Mario sit on the platform longer
+- Get KeroKeroCola before exit
+
+### Room 4
+
+- Use star
+- Attempt enemy jump (doge jump) for the flower. [Optimal 10 Dogs](http://puu.sh/hsHku/54e3f185d8.gif)
+- Kill at least 10 K-9s (No need to count, just leave as soon as Mario levels up)
+
+> You can opt to kill 10-15 K9s here instead, if you don't want to worry about the Sparky RNG in the Coal Mines.
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 2 | SP |
+
+### Room 5
+
+- Hit the mushroom chest to refill FP
+
+### Croco
+
+| | Enemy | HP | Hero | Action | DMG |
+| --: | :-- | --: | :-- | :-- | --: |
+| 1 | Croco | 0 | **Mario** | Jump | 46 |
+| | | 0 | Mallow | Defend | |
+| 2 | | 0 | **Mario** | Jump | 46 |
+| | | 0 | Mallow | Defend | |
+| 3 | | 0 | **Mario** | Jump | 48 |
+| | | 0 | Mallow | Honey Syrup | |
+| 4 | | 0 | **Mario** | Jump | 48 |
+| | | 0 | Mallow | Honey Syrup | |
+| 5 | | 0 | **Mario** | Jump | 49 |
+| | | 0 | Mallow | Defend | |
+| 6 | | 0 | **Mario** | Jump | 49 |
+| | | 0 | Mallow | Defend | |
+| 7 | | 0 | **Mario** | Jump | 51 |
+| | | 0 | Mallow | Defend | |
+| 8 | | 0 | **Mario** | Jump | 51 |
+| | | 0 | Mallow | Defend | |
+
+## Mack Skip
+
+- Enter from Mushroom Way
+- Do the skip thing
+
