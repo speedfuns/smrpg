@@ -186,7 +186,6 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 7 | Mario | Jump | 51 |
 | | Mallow | Defend | |
 | 8 | Mario | Jump | 51 |
-| | Mallow | Defend | |
 
 > - If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
 > - Use Pick Me Up's as needed.
@@ -199,5 +198,54 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Save at Bandit's Way in case you miss the skip
 - Enter from Mushroom Way
-- Do the skip thing
+- Do the [skip thing](https://www.youtube.com/watch?v=QXEF_rw1Aws)
+- Leave left, donut get the cricket pie
 
+## Kero Sewers
+
+### Pandorite
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 300 | 30 | 20 | 20 | 20 | 20 | 30 | Not Jump | Jump |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Mario | Jump | 99 |
+| | Mallow | Defend | |
+| 2 | Mario | Jump | 99 |
+| | Mallow | Defend | |
+| 3 | Mario | Jump | 102 |
+
+### Rat Room
+
+- Use star, try to get 8 rats / 7 rats + boo
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 3 | SP |
+
+- Get chest before save point
+
+### Belome
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 500 | 30 | 25 | 15 | 20 | 30 | 40 | Sleep | Lightning |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Mario | Jump | |
+| | Mallow | Thunderbolt | |
+| 2 | Mario | Jump | |
+| | Mallow | Honey Syrup | |
+| 3 | Mario | Jump | |
+| | Mallow | Thunderbolt | |
+| | Belome | Scarecrow | |
+| 4 | Mario | Jump | |
+| | Mallow | Honey Syrup | |
+| | Belome | Swallow | |
+| 5 | Mario | Jump | |
+| 6 | Mario | Jump | |
+| | Mallow | Thunderbolt | |
+| 7 | Mario | Jump | |
