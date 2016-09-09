@@ -107,15 +107,12 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Hold right after entering and head to the shop
 
-| Sell | Coins | |
-| --- | --: | --: |
-| Mushroom | 000 | 1 |
-| Flower Jar | 000 | 1 |
-
-| Buy | Coins | |
-| --- | --: | --: |
-| Honey Syrup | 000 | 5 |
-| Pick Me Up | 000 | 4 |
-| Able Juice | 000 | 4 |
-| Shirt | 000 | 1 |
-| Jump Shoes | 000 | 1 |
+| Action | Item | |
+| --- | --- | --: |
+| Buy | Mushroom | 1 |
+|     | Flower Jar | 1 |
+| Sell | Honey Syrup | 5 |
+| | Pick Me Up | 4 |
+| | Able Juice | 4 |
+| | Shirt | 1 |
+| | Jump Shoes | 1 |
