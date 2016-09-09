@@ -1,5 +1,7 @@
 # Super Mario RPG (Any%)
 
+![](http://i.imgur.com/yhZWsey.jpg)
+
 ## Records
 [speedrun.com](http://www.speedrun.com/smrpg)
 
@@ -107,23 +109,26 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Hold right after entering and head to the shop
 
-| Action | Item | |
-| :-- | :-- | --: |
-| Buy | Mushroom | 1 |
-|     | Flower Jar | 1 |
-| Sell | Honey Syrup | 5 |
-| | Pick Me Up | 4 |
-| | Able Juice | 4 |
-| | Shirt | 1 |
-| | Jump Shoes | 1 |
+| Sell | # |
+| :-- | --: |
+| Mushroom | 1 |
+| Flower Jar | 1 |
+
+| Buy | # |
+| :-- | --: |
+| Honey Syrup | 5 |
+| Pick Me Up | 4 |
+| Able Juice | 4 |
+| Shirt | 1 |
+| Jump Shoes | 1 |
 
 ### Equip
 
-| Mario |
-| :-- | 
-| Hammer |
-| Shirt |
-| Jump Shoes |
+| | Mario |
+| --- | :-- |
+| :punch: | Hammer |
+| :shirt: | Shirt |
+| :ring: | Jump Shoes |
 
 > Getting the flower in the basement is safer than relying on Doge Jump in Bandit's Way, but it is slower and not completely necessary.
 
