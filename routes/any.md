@@ -98,12 +98,12 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Hammer Bros
 
-| | Enemy | HP | Hero | Action | DMG |
-| --: | :-- | --: | :-- | :-- | --: |
-| 1 | Hammer Bro 1 | 50 | Mario | Jump | 43 |
-| 2 | Hammer Bro 2 | 50 | Mario | Jump | 45 |
-| 3 | Hammer Bro 1 | 7 | Mario | Untimed Attack |
-| 4 | Hammer Bro 2 | 5 | Mario | Untimed Jump |
+| | Enemy | Hero | Action | DMG |
+| --: | :-- | :-- | :-- | --: |
+| 1 | Hammer Bro 1 | Mario | Jump | 43 |
+| 2 | Hammer Bro 2 | Mario | Jump | 45 |
+| 3 | Hammer Bro 1 | Mario | Untimed Attack | |
+| 4 | Hammer Bro 2 | Mario | Untimed Jump | |
 
 ## Mushroom Kingdom
 
