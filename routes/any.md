@@ -163,7 +163,9 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Hit the mushroom chest to refill FP
 
-### Croco
+| | HP | ATK | DEF | M.A | M.D | XP | Coins | Defense | Weakness |
+| :-- | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| Croco | 25 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
 
 | | Enemy | HP | Hero | Action | DMG |
 | --: | :-- | --: | :-- | :-- | --: |
