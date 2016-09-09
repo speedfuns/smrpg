@@ -179,8 +179,11 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 8 | | 0 | **Mario** | Jump | 51 |
 | | | 0 | Mallow | Defend | |
 
+> If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
+
 ## Mack Skip
 
+- Save in case you miss the skip
 - Enter from Mushroom Way
 - Do the skip thing
 
