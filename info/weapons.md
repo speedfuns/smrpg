@@ -21,7 +21,7 @@
 ### Mario
 
 | | ATK | P | Cost | Location |
-| :-- | --: | --: | :-- |
+| :-- | --: | --: | --: | :-- |
 | Hammer | 10 | 1 | | Mushroom Way |
 | NokNok Shell | 20 | 2 | | Midas River |
 | Punch Glove | 30 | 3 | 36 | Moleville |
