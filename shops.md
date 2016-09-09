@@ -216,3 +216,80 @@
 | :tea: | Able Juice | 4 | |
 | :tea: | Freshen Up | 50 | |
 | :question: | Mushroom | 4 | |
+
+## Nimbus Land
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
+| :punch: | Mega Glove | 102 | Mario only |
+| :punch: | War Fan | 100 | Toadstool only |
+| :punch: | Hand Cannon | 105 | Geno only |
+| :punch: | Sticky Glove | 98 | Mallow only |
+| :shirt: | Fuzzy Shirt | 70 | Mario only |
+| :shirt: | Fuzzy Pants | 70 | Mallow only |
+| :shirt: | Fuzzy Cape | 70 | Geno only |
+| :shirt: | Fuzzy Dress | 70 | Toadstool only |
+
+## Barrel Volcano
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
+| :shirt: | Fire Shirt | 90 | Mario only |
+| :shirt: | Fire Pants | 90 | Mallow only |
+| :shirt: | Fire Cape | 90 | Geno only |
+| :shirt: | Fire Shell | 90 | Bowser only |
+| :shirt: | Fire Dress | 90 | Toadstool only |
+
+## Bowser's Keep
+
+### Croco Doors Shop
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
+| :shirt: | Fire Shirt | 90 | Mario only |
+| :shirt: | Fire Pants | 90 | Mallow only |
+| :shirt: | Fire Cape | 90 | Geno only |
+| :shirt: | Fire Shell | 90 | Bowser only |
+| :shirt: | Fire Dress | 90 | Toadstool only |
+
+### Croco Magikoopa Shop
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
+| :shirt: | Hero Shirt | 100 | Mario only |
+| :shirt: | Prince Pants | 100 | Mallow only |
+| :shirt: | Star Cape | 100 | Geno only |
+| :shirt: | Heal Shell | 100 | Bowser only |
+| :shirt: | Royal Dress | 100 | Toadstool only |
+
+## Factory
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :honey_pot: | Maple Syrup | 15 | |
+| :tea: | Pick Me Up | 3 | |
+| :tea: | Freshen Up | 25 | |
+| :mushroom: | Mid Mushroom | 10 | |
+| :mushroom: | Max Mushroom | 39 | |
+| :tropical_drink: | Froggie Drink | 8 | |
+| :tea: | Able Juice | 2 | |
