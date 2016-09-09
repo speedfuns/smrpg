@@ -165,9 +165,9 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Croco
 
-| | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
-| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
-| Croco | 320 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 320 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
@@ -189,10 +189,15 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | Mallow | Defend | |
 
 > If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
+> Use Pick Me Up's as needed.
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 2 | SP |
 
 ## Mack Skip
 
-- Save in case you miss the skip
+- Save at Bandit's Way in case you miss the skip
 - Enter from Mushroom Way
 - Do the skip thing
 
