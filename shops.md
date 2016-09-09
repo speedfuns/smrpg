@@ -203,3 +203,16 @@
 | :tea: | Pick Me Up | 5 | |
 | :tea: | Able Juice | 4 | |
 | :tea: | Freshen Up | 50 | |
+
+## Monstro Town
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :punch: | Spiked Link | 94 | Bowser only |
+| :shirt: | Courage Shell | 60 | Bowser only |
+| :mushroom: | Mid Mushroom | 20 | |
+| :honey_pot: | Maple Syrup | 30 | |
+| :tea: | Pick Me Up | 5 | |
+| :tea: | Able Juice | 4 | |
+| :tea: | Freshen Up | 50 | |
+| :question: | Mushroom | 4 | |
