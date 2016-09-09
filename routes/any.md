@@ -249,3 +249,12 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 6 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 | 7 | Mario | Jump | |
+
+<table>
+  <tr>
+    <th>what</th>
+  </tr>
+  <tr>
+    <td>what</<td></td>>
+  </tr>
+</td>
