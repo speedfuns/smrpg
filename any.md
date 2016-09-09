@@ -20,7 +20,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Star 1
   - [Bowser's Keep](#bowsers-keep)
-  - [Mario's Pad]()
+  - [Mario's Pad](#marios-pad)
   - [Mushroom Way]()
   - [Mushroom Kingdom]()
   - [Bandit's Way]()
@@ -76,3 +76,29 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | --: | --- | --- | --- |
 | 1 | Kinklink | Mario | Untimed Jump |
 | 2 | Kinklink | Mario | Untimed Jump |
+
+## Mario's Pad
+
+- Save before leaving to skip tutorial
+- Say no to each tutorial
+
+## Mushroom Way
+
+### Room 2
+
+- Jump on the flower with the Goomba to get the flower in the chest on the left
+- Get the mushroom in this screen before leaving if you received damage
+
+### Room 3
+
+- Take top route
+- Avoid the Spikey dude thing
+
+### Hammer Bros
+
+| | Enemy | Hero | Action |
+| --: | --- | --- | --- |
+| 1 | Hammer Bro 1 | Mario | Jump |
+| 2 | Hammer Bro 2 | Mario | Jump |
+| 3 | Hammer Bro 1 | Mario | Untimed Attack |
+| 4 | Hammer Bro 2 | Mario | Untimed Jump |
