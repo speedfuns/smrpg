@@ -265,6 +265,10 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 > - Mallow should only use 3 Thunderbolts.
 > - If Mario is slept early, use an Able Juice with Mallow.
 
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 3 | SP |
+
 ## Midas River
 
 ### Waterfall
@@ -373,3 +377,6 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | Mallow | Defend | |
 | 8 | Geno | Geno Beam | 90 |
 
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 4 | SP |
