@@ -178,11 +178,11 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 3 | **Mario** | Jump | 48 |
 | | Mallow | Honey Syrup | |
 | 4 | **Mario** | Jump | 48 |
-| | Mallow | Honey Syrup | |
+| | Mallow | Defend / Honey Syrup | |
 | 5 | **Mario** | Jump | 49 |
 | | Mallow | Defend | |
 | 6 | **Mario** | Jump | 49 |
-| | Mallow | Defend | |
+| | Mallow | Defend / Honey Syrup | |
 | 7 | **Mario** | Jump | 51 |
 | | Mallow | Defend | |
 | 8 | **Mario** | Jump | 51 |
