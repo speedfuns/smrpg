@@ -5,7 +5,7 @@
 | Amulet | -5 | 7 | 7 | 7 | 7 | | Win Booster's curtain game |
 | Antidote Pin | | | 2 | | 2 | 28 | Nullifies poison |
 | Attack Scarf | 30 | 30 | 30 | 30 | 30 | | Mario only - do 30 Super Jumps |
-| B'Tub Ring | | | | | | 145 | Toadstool only - decreases M.A by 50% |
+| B'Tub Ring | | | | | | 145 | Toadstool only - .5 M.A |
 | Coin Trick | | | | | | :frog: 36 | Doubles your coins |
 | Exp. Booster | | | | | | :frog: 22 | Doubles your experience |
 | Fearless Pin | | | 5 | | 5 | 130 | Nullifies fear |
@@ -14,3 +14,6 @@
 | Jinx Belt | 12 | 27 | 27 | | | | Prevents instant KO |
 | Jump Shoes | 2 | | 1 | 5 | 1 | 30 | Mario only - allows jump on any enemy |
 | Quartz Charm | | | | | | | .5 damage, 1.5 offense, prevents instant KO |
+| Rare Scarf | | 15 | | 15 | 150 | | Nimbus Land vines |
+| Safety Badge | | | 5 | | 5 | | Nullifies mute and poison |
+| Safety Ring | 5 | | 5 | | 5 | | Nullifies elemental attacks and instant KO |
