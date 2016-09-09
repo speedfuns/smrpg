@@ -100,3 +100,25 @@
 | --- | :-- | --: | :-- |
 | :tea: | Pick Me Up | 10 | |
 | :tropical_drink: | KeroKero Cola | 150 | |
+
+## Seaside Town
+
+### Frog Coin Shop
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :sparkles: | See Ya! | :frog: 10 | |
+| :sparkles: | Earlier Times | :frog: 15 | |
+| :ring: | Exp. Booster | :frog: 22 | |
+| :ring: | Coin Trick | :frog: 36 | |
+| :ring: | Scrooge Ring | :frog: 50 | |
+
+### Yaridovich Shop
+
+| | Item | Coins | Notes |
+| --- | :-- | --: | :-- |
+| :mushroom: | Bad Mushroom | 30 | |
+| :cookie: | Muku Cookie | 69 | |
+| :bomb: | Fright Bomb | 100 | |
+| :bomb: | Fire Bomb | 200 | |
+| :bomb: | Ice Bomb | 250 | |
