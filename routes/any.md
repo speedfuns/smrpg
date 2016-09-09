@@ -163,28 +163,30 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Hit the mushroom chest to refill FP
 
-| | HP | ATK | DEF | M.A | M.D | XP | Coins | Defense | Weakness |
+### Croco
+
+| | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
 | :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
 | Croco | 25 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
 
-| | Enemy | HP | Hero | Action | DMG |
-| --: | :-- | --: | :-- | :-- | --: |
-| 1 | Croco | 0 | **Mario** | Jump | 46 |
-| | | 0 | Mallow | Defend | |
-| 2 | | 0 | **Mario** | Jump | 46 |
-| | | 0 | Mallow | Defend | |
-| 3 | | 0 | **Mario** | Jump | 48 |
-| | | 0 | Mallow | Honey Syrup | |
-| 4 | | 0 | **Mario** | Jump | 48 |
-| | | 0 | Mallow | Honey Syrup | |
-| 5 | | 0 | **Mario** | Jump | 49 |
-| | | 0 | Mallow | Defend | |
-| 6 | | 0 | **Mario** | Jump | 49 |
-| | | 0 | Mallow | Defend | |
-| 7 | | 0 | **Mario** | Jump | 51 |
-| | | 0 | Mallow | Defend | |
-| 8 | | 0 | **Mario** | Jump | 51 |
-| | | 0 | Mallow | Defend | |
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | **Mario** | Jump | 46 |
+| | Mallow | Defend | |
+| 2 | **Mario** | Jump | 46 |
+| | Mallow | Defend | |
+| 3 | **Mario** | Jump | 48 |
+| | Mallow | Honey Syrup | |
+| 4 | **Mario** | Jump | 48 |
+| | Mallow | Honey Syrup | |
+| 5 | **Mario** | Jump | 49 |
+| | Mallow | Defend | |
+| 6 | **Mario** | Jump | 49 |
+| | Mallow | Defend | |
+| 7 | **Mario** | Jump | 51 |
+| | Mallow | Defend | |
+| 8 | **Mario** | Jump | 51 |
+| | Mallow | Defend | |
 
 > If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
 
