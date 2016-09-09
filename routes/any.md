@@ -233,28 +233,31 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
 | 500 | 30 | 25 | 15 | 20 | 30 | 40 | Sleep | Lightning |
 
-| | Character | Action | DMG | Enemy |
-| --: | :-- | :-- | --: | :-- |
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
 | 1 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 | 2 | Mario | Jump | |
 | | Mallow | Honey Syrup | |
 | 3 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
-| | | Scarecrow | | Belome |
+
+> Belome scarecrow's Mario
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
 | 4 | Mario | Jump | |
 | | Mallow | Honey Syrup | |
-| | | Swallow | | Belome |
+
+> Belome swallows Mallow
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
 | 5 | Mario | Jump | |
 | 6 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 | 7 | Mario | Jump | |
 
-<table>
-  <tr>
-    <th>what</th>
-  </tr>
-  <tr>
-    <td>what</<td></td>>
-  </tr>
-</td>
+> - This is an ideal fight. The important thing is to alternate Mallow using Thunderbolt and Honey Syrup.
+> - Mallow should only use 3 Thunderbolts.
+> - If Mario is slept early, use an Able Juice with Mallow.
