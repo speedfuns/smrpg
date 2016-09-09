@@ -188,8 +188,8 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 8 | Mario | Jump | 51 |
 | | Mallow | Defend | |
 
-> If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
-> Use Pick Me Up's as needed.
+> - If you have 11 FP, Mallow defends on turn 4 and uses a Honey Syrup on turn 6.
+> - Use Pick Me Up's as needed.
 
 | | LV | Bonus |
 | :-- | --: | :-- |
