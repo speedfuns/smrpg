@@ -22,13 +22,13 @@
 
 | | ATK | P | Cost | Location | Notes |
 | :-- | --: | --: | --: | :-- | :-- |
-| Hammer | 10 | 1 | | Mushroom Way | Defeat Hammer Bros |
-| NokNok Shell | 20 | 2 | | Midas River | After your first course |
+| Hammer | 10 | 1 | | Mushroom Way | |
+| NokNok Shell | 20 | 2 | | Midas River | |
 | Punch Glove | 30 | 3 | 36 | Moleville | |
-| Masher | 50 | 30 | | Booster's Tower | Thwomp see-saw in the first room |
+| Masher | 50 | 30 | | Booster's Tower | |
 | Super Hammer | 40 | 4 | 70 | Marrymore | |
 | Troopa Shell | 50 | 5 | 90 | Seaside Town | |
 | Mega Glove | 60 | 6 | 102 | Nimbus Land | |
 | Ultra Hammer | 70 | 7 | | Factory | |
-| Lazy Shell | 90 | 40 | | Rose Town | See Gardener with Seed and Fertilizer |
+| Lazy Shell | 90 | 40 | | Rose Town | |
 | Hammer | 0 | 0 | 123 | Seaside Town | "Lucky!" if timed correctly |
