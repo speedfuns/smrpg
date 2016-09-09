@@ -234,7 +234,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 500 | 30 | 25 | 15 | 20 | 30 | 40 | Sleep | Lightning |
 
 | | Character | Action | DMG | Action | Enemy |
-| --: | :-- | :-- | --: |
+| --: | :-- | :-- | --: | :-- | :-- |
 | 1 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 | 2 | Mario | Jump | |
