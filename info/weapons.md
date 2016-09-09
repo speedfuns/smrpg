@@ -25,7 +25,7 @@
 | Hammer | 10 | 1 | | Mushroom Way | Defeat Hammer Bros |
 | NokNok Shell | 20 | 2 | | Midas River | After your first course |
 | Punch Glove | 30 | 3 | 36 | Moleville | |
-| Masher | 50 | 30 | | Booster's Tower | Thwomp see-saw in the first room |
+| Masher | 50 | 30 | | Booster's Tower | Bob-omb see-saw in the first room |
 | Super Hammer | 40 | 4 | 70 | Marrymore | |
 | Troopa Shell | 50 | 5 | 90 | Seaside Town | |
 | Mega Glove | 60 | 6 | 102 | Nimbus Land | |
@@ -72,4 +72,4 @@
 | Parasol | 50 | 5 | 75 | Seaside Town | |
 | War Fan | 60 | 6 | 88 | Nimbus Land | |
 | Super Slap | 70 | 7 | | Bowser's Keep | Behind one of the Action Doors |
-| Frying Pan | 90 | 20 | 300 | Bowser's Keep | Behind one of the Battle Doors |
+| Frying Pan | 90 | 20 | 300 | Moleville | Sold by the spelunker |
