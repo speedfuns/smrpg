@@ -28,7 +28,10 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
   - [Bandit's Way](#bandits-way)
   - [Mack Skip](#mack-skip)
 - Star 2
-  - [Kero Sewers]()
+  - [Kero Sewers](#kero-sewers)
+  - [Midas River](#midas-river)
+  - [Tadpole Pond](#tadpole-pond)
+  - [Rose Way](#rose-way)
   - [Rose Town]()
   - [Forest Maze]()
 - Star 3
@@ -242,7 +245,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | 3 | Mario | Jump | |
 | | Mallow | Thunderbolt | |
 
-> Belome scarecrow's Mario
+> Belome scarecrows Mario
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
@@ -261,3 +264,31 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 > - This is an ideal fight. The important thing is to alternate Mallow using Thunderbolt and Honey Syrup.
 > - Mallow should only use 3 Thunderbolts.
 > - If Mario is slept early, use an Able Juice with Mallow.
+
+## Midas River
+
+### Waterfall
+
+- Collect :frog: 4 coins
+- Collect 13 coins
+
+### Barrel Rolling
+
+- Switch lanes at the very beginning and donut switch again
+- There are 53 coins in this section, so you can miss 6
+- Aim for 60 total to skip a text box I guess.
+
+## :frog: Tadpole Pond
+
+### Juice Bar
+
+| Buy | # |
+| :-- | --: |
+| Froggie Drink | 3 |
+
+### Frog Coin Emporium
+
+| Buy | # |
+| :-- | --: |
+| Sleepy Bomb | 2 |
+| Energizer | 1 |
