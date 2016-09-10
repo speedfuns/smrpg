@@ -86,7 +86,6 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | Sell | # |
 | :-- | --: |
-| Mushroom | 1 |
 | Flower Jar | 1 |
 
 | Buy | # |
@@ -95,6 +94,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | Pick Me Up | 4 |
 | Able Juice | 4 |
 | Shirt | 1 |
+| Pants | 1 |
 | Jump Shoes | 1 |
 
 ### Equip
@@ -110,6 +110,14 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - Get the Frog Coin in the Castle before the Throne Room.
 
 ## Bandit's Way
+
+### Equip
+
+| | Mallow |
+| --- | :-- |
+| :punch: | |
+| :shirt: | Pants |
+| :ring: | |
 
 ### Room 1
 
@@ -180,6 +188,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 ### Pandorite Room
 
 - Get flower if you didn't get shop flower or doge jump
+- Or, get the flower if you dont want to get the Rose Town shop flower0
 
 ### Rat Room
 
@@ -244,7 +253,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | Buy | # |
 | :-- | --: |
-| Froggie Drink | 2 |
+| Froggie Drink | 3 |
 
 ### Frog Coin Emporium
 
@@ -310,7 +319,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | Punch Glove | 1 |
 | Finger Shot | 1 |
 | Cymbals | 1 |
-| Work Pants | 3 |
+| Work Pants | 4 |
 
 ### Equip
 
@@ -347,7 +356,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | | LV | Bonus |
 | :-- | --: | :-- |
-| Mallow | 5 | ATK |
+| Mallow | 5 | HP |
 | Geno | 7 | ATK |
 
 ### Punchinello
@@ -371,7 +380,6 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ## Booster's Tower
 
-- Get the Masher
 - Switch Bowser and Mallow
 
 ### Equip
