@@ -1,5 +1,13 @@
 # Leveling
 
+## Contents
+
+- [Mario](#mario)
+- [Mallow](#mallow)
+- [Geno](#geno)
+- [Bowser](#bowser)
+- [Toadstool](#toadstool)
+
 ## Mario 
 
 ### Base Stats
