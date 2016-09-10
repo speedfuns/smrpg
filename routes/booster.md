@@ -29,6 +29,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - [Forest Maze](#forest-maze)
 - [Moleville](#moleville)
 - [Coal Mines](#coal-mines)
+- [Booster's Pass](#boosters-pass)
 - [Booster's Tower](#boosters-tower)
 
 -----
@@ -302,3 +303,97 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | :-- | --: | :-- |
 | Mallow | 4 | ATK |
 
+## Moleville
+
+| Buy | # |
+| :-- | --: |
+| Punch Glove | 1 |
+| Finger Shot | 1 |
+| Cymbals | 1 |
+| Work Pants | 3 |
+
+### Equip
+
+| | Mario | Mallow | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | Punch Glove | Cymbals | Finger Shot
+| :shirt: | Work Pants | Work Pants | Work Pants |
+| :ring: | Jump Shoes | | |
+
+## Coal Mines
+
+### Croco
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 750 | 52 | 50 | 27 | 50 | 30 | 50 | Sleep | Fire |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Attack | |
+| | Mario | Jump | |
+| | Mallow | Energizer Geno | |
+| 2+ | Geno | Attack | |
+| | Mario | Attack | |
+| | Mallow | Attack | |
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 4 | SP |
+
+### Inner Mines
+
+- Use the star and kill some bombs
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 5 | ATK |
+| Geno | 7 | ATK |
+
+### Punchinello
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| 1200 | 60 | 42 | 22 | 40 | 0 | 0 | Jump, Ailments | |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Attack | |
+| | Mario | Jump | |
+| | Mallow | Energizer Geno | |
+| 2+ | Geno | Attack | |
+| | Mario | Attack | |
+| | Mallow | Attack | |
+
+## Booster's Pass
+
+- Grab the Rock Candy
+
+## Booster's Tower
+
+- Get the Masher
+- Switch Bowser and Mallow
+
+### Equip
+
+| | Mario | Bowser | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | Masher | | Finger Shot
+| :shirt: | Work Pants | Work Pants | Work Pants |
+| :ring: | Jump Shoes | | |
+
+### Booster
+
+| | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
+| Booster | 800 | 75 | 55 | 1 | 40 | 60 | 100 | Sleep | Jump |
+| Snifits | 200 | 60 | 60 | 20 | 20 | 2 | 15 | | Ice |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Rock Candy | |
+| | Mario | Jump | |
+| | Bowser | Terrorize | |
+| 2+ | Geno | Attack | |
+| | Mario | Jump | |
+| | Bowser | Attack | |
