@@ -1,5 +1,7 @@
 # Leveling
 
+via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-the-seven-stars/faqs/36582)
+
 ## Contents
 
 - [Mario](#mario)
