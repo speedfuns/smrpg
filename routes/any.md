@@ -84,22 +84,26 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ## Mario's Pad
 
-- Save before leaving to skip tutorial
-- Say no to each tutorial
+- Save before leaving to skip tutorial  
+- Say no to each tutorial  
 
 ## Mushroom Way
 
 ### Room 2
 
-- Jump on the flower with the Goomba to get the flower in the chest on the left
-- Get the mushroom in this screen before leaving if you received damage
+- Jump on the flower with the Goomba to get the flower in the chest on the left  
+- Get the mushroom in this screen before leaving if you received damage  
 
 ### Room 3
 
-- Take top route
-- Avoid the Spikey dude thing
+- Take top route  
+- Avoid the Spikey
 
 ### Hammer Bros
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 50 | 6 | 13 | 6 | 8 | 3 | 3 | Sleep | Fire | Flower Jar (100%) |
 
 | | Character | Enemy | Action | DMG |
 | --: | :-- | :-- | :-- | --: |
@@ -114,15 +118,15 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | Sell | # |
 | :-- | --: |
-| Mushroom | 1 |
 | Flower Jar | 1 |
 
 | Buy | # |
 | :-- | --: |
 | Honey Syrup | 5 |
-| Pick Me Up | 4 |
+| Pick Me Up | 4 - 6 |
 | Able Juice | 4 |
 | Shirt | 1 |
+| Pants | 1 |
 | Jump Shoes | 1 |
 
 ### Equip
@@ -135,7 +139,15 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 > Getting the flower in the basement is safer than relying on Doge Jump in Bandit's Way, but it is slower and not completely necessary.
 
-- Get the Frog Coin in the Castle before the Throne Room.
+- Get the Frog Coin in the Castle before the Throne Room.  
+- Cutscenes  
+- Get Mallow  
+
+| | Mallow |
+| --- | :-- |
+| :punch: | - |
+| :shirt: | Pants |
+| :ring: | - |
 
 ## Bandit's Way
 
@@ -168,9 +180,9 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Croco
 
-| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
-| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
-| 320 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire |
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 320 | 25 | 30 | 18 | 18 | 16 | 10 | Sleep | Fire | Flower Tab (100%) |
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
@@ -201,16 +213,17 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Save at Bandit's Way in case you miss the skip
 - Enter from Mushroom Way
-- Do the [skip thing](https://www.youtube.com/watch?v=QXEF_rw1Aws)
+- Do [Mack Skip](https://www.youtube.com/watch?v=QXEF_rw1Aws)
+- On the 2nd jump, hold right in the air until you hit the invisible wall
 - Leave left, donut get the cricket pie
 
 ## Kero Sewers
 
 ### Pandorite
 
-| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
-| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
-| 300 | 30 | 20 | 20 | 20 | 20 | 30 | Not Jump | Jump |
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 300 | 30 | 20 | 20 | 20 | 20 | 30 | Not Jump | Jump | Flower Jar (100%) |
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
@@ -280,7 +293,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 - Switch lanes at the very beginning and donut switch again
 - There are 53 coins in this section, so you can miss 6
-- Aim for 60 total to skip a text box I guess.
+- Aim for 60 total to skip a text box 
 
 ## Tadpole Pond
 
@@ -288,7 +301,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | Buy | # |
 | :-- | --: |
-| Froggie Drink | 2 |
+| Froggie Drink | 2 - 3 |
 
 ### Frog Coin Emporium
 
@@ -316,6 +329,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 - Go steal the guy's 2x flowers
 - Get hidden frog coin upstairs
 - Go to the Geno cutscenes
+- Say no to being Mario
 
 ## Forest Maze
 
@@ -323,7 +337,6 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Wiggler Jumps
 
-- Summon Satan
 - Jump 10x times on wiggler for 1 frog coin
 - MINIMAL MOVEMENT
 - Do this 7 times (leave with 11 frog coins)
@@ -348,9 +361,9 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 ### Bowyer
 
-| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses |
-| --: | --: | --: | --: | --: | --: | --: | :-- | :-- |
-| 720 | 50 | 40 | 30 | 35 | 60 | 50 | All ailments | |
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 720 | 50 | 40 | 30 | 35 | 60 | 50 | All ailments | | Flower Box (100%) |
 
 | | Character | Action | DMG |
 | --: | :-- | :-- | --: |
@@ -380,3 +393,32 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | LV | Bonus |
 | :-- | --: | :-- |
 | Mario | 4 | SP |
+
+## Moleville
+
+- Head to the shop
+
+| Buy | # |
+| :-- | --: |
+| Punch Glove | 1 |
+| Finger Shot | 1 |
+| Cymbals | 1 |
+| Work Pants | 4 |
+
+| Sell | # |
+| :-- | --: |
+| Mushrooms | All |
+| Honey Syrup | All |
+| KeroKero Cola | 2 |
+| Flower Tab | 2 |
+
+| | Mario | Mallow | Geno
+| --- | :-- | :-- | :-- |
+| :punch: | Punch Glove | Cymbals | Finger Shot
+| :shirt: | Work Pants | Work Pants | Work Pants
+| :ring: | *Jump Shoes* | Trueform Pin | Wake Up Pin
+
+## Moleville Mines
+
+- Chase Croco to second bomb and go backwards counter-clockwise
+- Fight all 3 Crooks
