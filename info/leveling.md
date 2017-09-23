@@ -20,8 +20,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Level Up Stats
 
-     |  EXP |  HP | ATK | DEF | M.A | M.D
----: | ---: | --: | --: | --: | --: | --: 
+|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+| --: |  --: | --: | --: | --: | --: | --: |
    2 |   16 |  +5 |  +3 |  +2 |  +2 |  +2
    3 |   48 |  +5 |  +3 |  +2 |  +2 |  +2
    4 |   84 |  +5 |  +3 |  +3 |  +2 |  +2
@@ -44,8 +44,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-     | ATK | DEF |     |  HP |     | M.A | M.D
----: | --: | --: | --- | --: | --- | --: | --:
+|     | ATK | DEF |     |  HP |     | M.A | M.D |
+| --: | --: | --: | :-: | --: | :-: | --: | --: |
    2 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
    3 |  +2 |  +1 |     |  +3 |     |  +1 |  +1 
    4 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
@@ -76,8 +76,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Level Up Stats
 
-     |  EXP |  HP | ATK | DEF | M.A | M.D
----: | ---: | --: | --: | --: | --: | --: 
+|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+| --: |  --: | --: | --: | --: | --: | --: |
    3 |   48 |  +4 |  +2 |  +3 |  +2 |  +2
    4 |   84 |  +4 |  +2 |  +3 |  +2 |  +2
    5 |  130 |  +4 |  +2 |  +3 |  +3 |  +2
@@ -99,8 +99,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-     | ATK | DEF |     |  HP |     | M.A | M.D
----: | --: | --: | --- | --: | --- | --: | --:
+|     | ATK | DEF |     |  HP |     | M.A | M.D |
+| --: | --: | --: | :-: | --: | :-: | --: | --: |
    3 |  +3 |  +1 |     |  +4 |     |  +1 |  +1 
    4 |  +1 |  +1 |     |  +6 |     |  +1 |  +1
    5 |  +1 |  +1 |     |  +4 |     |  +2 |  +1
@@ -130,8 +130,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Level Up Stats
 
-     |  EXP |  HP | ATK | DEF | M.A | M.D
----: | ---: | --: | --: | --: | --: | --: 
+|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+| --: |  --: | --: | --: | --: | --: | --: |
    7 |  290 |  +8 |  +5 |  +3 |  +4 |  +2
    8 |  402 |  +8 |  +5 |  +3 |  +4 |  +2
    9 |  538 |  +8 |  +5 |  +3 |  +4 |  +2
@@ -149,8 +149,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-     | ATK | DEF |     |  HP |     | M.A | M.D
----: | --: | --: | --- | --: | --- | --: | --:
+|     | ATK | DEF |     |  HP |     | M.A | M.D |
+| --: | --: | --: | :-: | --: | :-: | --: | --: |
    7 |  +1 |  +1 |     |  +6 |     |  +1 |  +1
    8 |  +1 |  +1 |     |  +5 |     |  +3 |  +1
    9 |  +3 |  +1 |     |  +5 |     |  +1 |  +1
@@ -176,8 +176,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Level Up Stats
 
-     |  EXP |  HP | ATK | DEF | M.A | M.D
----: | ---: | --: | --: | --: | --: | --: 
+|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+| --: |  --: | --: | --: | --: | --: | --: |
    9 |  538 |  +8 |  +3 |  +3 |  +4 |  +2
   10 |  700 |  +8 |  +3 |  +3 |  +4 |  +2
   11 |  890 |  +8 |  +4 |  +3 |  +4 |  +2
@@ -193,8 +193,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-     | ATK | DEF |     |  HP |     | M.A | M.D
----: | --: | --: | --- | --: | --- | --: | --:
+|     | ATK | DEF |     |  HP |     | M.A | M.D |
+| --: | --: | --: | :-: | --: | :-: | --: | --: |
    9 |  +2 |  +1 |     |  +1 |     |  +1 |  +1
   10 |  +1 |  +1 |     |  +3 |     |  +1 |  +1
   11 |  +1 |  +1 |     |  +1 |     |  +3 |  +1
@@ -218,8 +218,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Level Up Stats
 
-     |  EXP |  HP | ATK | DEF | M.A | M.D
----: | ---: | --: | --: | --: | --: | --: 
+|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+| --: |  --: | --: | --: | --: | --: | --: |
   10 |  700 |  +4 |  +1 |  +3 |  +4 |  +2
   11 |  890 |  +5 |  +2 |  +3 |  +4 |  +3
   12 | 1110 |  +6 |  +3 |  +3 |  +4 |  +3
@@ -234,8 +234,8 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-     | ATK | DEF |     |  HP |     | M.A | M.D
----: | --: | --: | --- | --: | --- | --: | --:
+|     | ATK | DEF |     |  HP |     | M.A | M.D |
+| --: | --: | --: | :-: | --: | :-: | --: | --: |
   10 |  +1 |  +1 |     |  +9 |     |  +1 |  +1
   11 |  +1 |  +1 |     |  +5 |     |  +3 |  +1
   12 |  +3 |  +1 |     |  +5 |     |  +1 |  +1
