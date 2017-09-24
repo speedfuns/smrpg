@@ -1104,5 +1104,240 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 
 | Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
 | :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
-| Smilax | 1200 | 120 | 80 | 20 | 40 | 80 | 20 | Sleep | Thunder | |
-| Megasmilax | 200 | 100 | 90 | 33 | 55 | 0 | 0 | All but Thunder and Ice | | |
+| Smilax | 200 | 100 | 80 | 70 | 50 | 0 | 0 | All ailments | Ice | |
+| Megasmilax | 1000 | 140 | 80 | 70 | 80 | 120 | 0 | All ailments | Ice | |
+
+#### Phase 1
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Attack | 
+
+#### Phase 2
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| | Geno | Boost Toadstool | 
+| | Toadstool | Shocker |
+| 2 | Mario | Attack |
+
+#### Phase 3
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| | Geno | Ice Bomb | 
+
+#### Phase 4
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| | Toadstool | Snowy | 
+| 3 | Toadstool | Group Hug |
+| 4+ | Mario | Attack |
+| | Geno | Attack | 
+| | Toadstool | Attack | 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Toadstool | 16 | HP |
+
+- Climb to Nimbus Land
+
+## Nimbus Land
+ 
+- Cutscenes
+- Head to the shop
+
+| Buy | # |
+| :-- | --: |
+| Mid Mushroom | 2 |
+| Maple Syrup | 2 |
+| Mega Glove | 1 |
+| War Fan | 1 |
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Toadstool | :arrow_forward: | Bowser |
+
+| | Mario | Bowser | Geno | Toadstool
+| --- | :-- | :-- | :-- | :-- |
+| :punch: | **Mega Glove** | *Hurly Gloves* | *Double Punch* | **War Fan** |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | **Safety Ring** | **Troopa Pin** | **Amulet** | **Exp. Booster** |
+
+### Valentina's Castle
+
+- Dodo minigame, get Feather
+- Go straight
+- Jump on chest and around
+- Left door
+- Get key and Flower Jar
+- Go back and open the Heavy Troopa door
+
+### Birdo
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 777 | 160 | 130 | 6 | 100 | 60 | 30 | Fire, all ailments | | |
+
+#### Shelly Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Bowser | Untimed Attack | 
+| | Geno | Untimed Boost Mario | 
+| | Mario | Untimed Attack | 
+| 2 | Bowser | Untimed Attack | 
+| | Geno | Untimed Boost Geno | 
+| | Mario | Untimed Attack | 
+| 3 | Bowser | Untimed Attack | 
+
+#### Birdo Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 4+ | Bowser | Attack |
+| | Geno | Attack | 
+| | Mario | Attack |
+
+> Bowser can use a Fright Bomb if you bought 3 in Seaside Town
+
+- Dodge the fan and the Jawful
+- Skip the Heavy Troopa
+- Cutscenes
+- Use star to kill birds and Dodo
+
+### Valentina and Dodo
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Dodo | 400 | 140 | 100 | 9 | 60 | 70 | 0 | Sleep, Silence | Fire | |
+| Valentina | 2000 | 120 | 80 | 80 | 60 | 120 | 200 | Ice, All ailments | | |
+
+#### Dodo Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Bowser | Fire Bomb |
+| 2 | Bowser | Untimed Attack | 
+
+#### Valentina Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Boost Mario |
+| | Mario | Attack | 
+| 2 | Geno | Boost Geno |
+| | Mario | Attack | 
+| 3+ | Bowser | Attack |
+| | Geno | Attack | 
+| | Mario | Attack | 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 15 | HP |
+
+- Cutscenes
+- Get Flower in the hallway on your way out
+- Fall into the volcano
+
+## Barrel Volcano
+
+- Get the flower by the left turn sign
+- Use the star to kill the first Corkpedite
+- Get flower in savebox room
+- Skip Jitanda
+
+### Corkpedite
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Corkpedite | 200 | 130 | 110 | 80 | 20 | 50 | 10 | Fire, all ailments | Ice | |
+| Body | 300 | 100 | 99 | 6 | 1 | 30 | 0 | Fire, all ailments | Ice | |
+| Oerlikon | 85 | 120 | 125 | 17 | 50 | 22 | 0 | All except Thunder, Ice | Ice | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Bowser | Untimed Attack to Body |
+| | Geno | Geno Blast | 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Bowser | 16 | HP |
+| Toadstool | 17 | SP |
+
+- Use Flower Jar
+
+| | Mario | Bowser | Geno | Toadstool
+| --- | :-- | :-- | :-- | :-- |
+| :punch: | *Mega Glove* | *Hurly Gloves* | *Double Punch* | *War Fan* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | **Amulet** | **Unequip** | **Safety Ring** | *Exp. Booster* |
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Bowser | :arrow_forward: | Toadstool |
+
+### Czar Dragon
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Czar Dragon | 1400 | 160 | 100 | 120 | 70 | 100 | 0 | Fire, Sleep | Ice | |
+| Zombone | 1800 | 190 | 60 | 80 | 100 | 50 | 0 | All except Jump, Thunder | Jump, Thunder | |
+
+#### Czar Dragon Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Power Blast |
+| | Toadstool | Mute | 
+| | Mario | Attack/Ice Bomb | 
+| 2 | Geno | Attack |
+| | Toadstool | Snowy | 
+| | Mario | Ice Bomb | 
+| 3 | Geno | Ice Bomb/Attack |
+
+#### Zombone Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| | Toadstool | Mute | 
+| | Mario | Attack | 
+| 4+ | Geno | Attack |
+| | Toadstool | Attack | 
+| | Mario | Attack | 
+
+## Axem Rangers
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Mega Glove* | *War Fan* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | **Troopa Pin** | **Zoom Shoes** | *Safety Ring* |
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Axem Black | 550 | 140 | 120 | 4 | 40 | 40 | 0 | Fear, Sleep | Thunder | |
+| Axem Green | 450 | 110 | 60 | 90 | 120 | 20 | 0 | Sleep, Silence | Ice | |
+| Axem Pink | 400 | 120 | 80 | 80 | 100 | 10 | 0 | Ice, Sleep, Silence | Fire | |
+| Axem Red | 800 | 150 | 100 | 24 | 80 | 40 | 0 | Fire, Fear, Sleep | Ice | |
+| Axem Yellow | 600 | 170 | 130 | 6 | 60 | 30 | 0 | Thunder, Poison, Sleep | Jump | |
+| Axem Rangers | 999 | 0 | 100 | 120 | 100 | 50 | 0 | All ailments | Thunder | |
+
+| | Character | No Rock Candy Freebie | Rock Candy Freebie |
+| --: | :-- | :-- | :-- |
+| 1 | Mario | Rock Candy | Rock Candy |
+| | Geno | Ice Bomb | Untimed Boost Toadstool |
+| | Toadstool | Fire Bomb | Rock Candy |
+| 2 | Mario | Attack Axem Red | Attack Axem Red |
+| | Geno | Attack Axem Yellow | Attack Axem Red |
+| | Toadstool | Crystalline | Crystalline |
+| 3+ | Mario | Attack | Attack |
+| | Geno | Attack | Attack |
+| | Toadstool | Shocker | Shocker |
+
+> Group Hug if you mistimed
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 19 | HP |
