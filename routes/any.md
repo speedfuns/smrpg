@@ -418,7 +418,691 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | :shirt: | Work Pants | Work Pants | Work Pants
 | :ring: | *Jump Shoes* | Trueform Pin | Wake Up Pin
 
-## Moleville Mines
+## Coal Mines
 
 - Chase Croco to second bomb and go backwards counter-clockwise
 - Fight all 3 Crooks
+
+### Crooks
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 38 | 35 | 32 | 12 | 25 | 10 | 10 | | | Honey Syrup (???%) |
+
+> Geno will level up if you kill 11+ Crooks.
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 5 | ATK |
+| Geno | 7 | HP |
+
+### Croco
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 750 | 52 | 50 | 27 | 50 | 30 | 50 | Sleep | Fire | Flower Box (25%) |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| | Geno | Attack | |
+| | Mario | Jump | |
+| | Mallow | Attack | |
+
+> Mallow should Energizer Geno on the first turn if you freebied it at Bowyer.
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 5 | SP |
+| Geno | 7 | HP |
+
+- Get the Frog Coin from the Shy Guy after the bomb
+- Use the Star, kill 6 Bob-ombs and Sparky if possible
+- Get 150 coins from chest in Sparky room
+- Get the Flower before Punchinello
+
+### Punchinello
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 1200 | 60 | 42 | 22 | 40 | 0 | 0 | Jump, all ailments | | |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| | Geno | Attack | |
+| | Mario | Attack | |
+| | Mallow | Attack | |
+
+> Again, Mallow should Energizer Geno on the first turn if you freebied it at Bowyer and Croco.
+
+> - If Punchinello uses Sandstorm, each character uses 1 Able Juice on themselves.
+> - If Punchinello uses Sandstorm on his last turn, the only Mallow and Geno uses Able Juices on themselves.
+> - Be sure to leave 1 Able Juice for Bundt, skip Mallow or Mario if you need to.
+
+- [Minecart Minigame](http://www.twitch.tv/thelcc/v/47768376)
+
+## Booster Pass
+
+- Get Frog Coins from bush at entrance
+- Get Rock Candy close to the exit of the first room
+- Drop all Honey Syrups
+
+## Booster Tower
+
+### Entrance
+
+- Do NOT watch the Switch Allies tutorial, you will softlock
+
+### First Rooms
+
+- Dodge Shy Guys
+- Get the Frog Coin in the upper right corner
+- Booster cutscene
+- Get Flower Tab from upper right corridor
+
+### Onwards
+
+- Press green switch if you're going to Booster Pass Secret
+- Get Frog Coin on the left side of the falling Shy Guy room
+- Same room, Frog Coin hidden in corridor
+- Get all Frog Coins in the checkerboard room
+- Get Zoom Shoes in the same room
+
+![](http://i.imgur.com/IeWgdRe.png)
+
+- Get Goody Bag and Frog Coin hidden in second to last room
+
+### Booster's Room
+
+- Do the Curtain Minigame, receive Amulet
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Mallow | :arrow_forward: | Bowser |
+
+| | Mario | Bowser | Geno
+| --- | :-- | :-- | :-- |
+| :punch: | *Punch Glove* | | *Finger Shot*
+| :shirt: | *Work Pants* | **Work Pants** | *Work Pants*
+| :ring: | **Amulet** | **Wake Up Pin** | *Wake Up Pin*
+
+### Grate Guy and Knife Guy
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Grate Guy | 900 | 60 | 40 | 25 | 40 | 40 | 15 | Fire, sleep | Thunder | |
+| Knife Guy | 700 | 70 | 55 | 20 | 10 | 50 | 10 | Thunder, sleep | Fire | Flower Jar (100%) |
+
+| | Character | Action |
+| --: | :-- | :-- |
+| 1 | Geno | Attack Knife Guy |
+| | Bowser | Terrorize |
+| | Mario | Fire Orb Knife Guy |
+| 2 | Geno | Attack Grate Guy |
+| | Bowser | Attack Grate Guy |
+| | Mario | Fire Orb Knife Guy |
+| 3+ | Geno | Attack Grate Guy |
+| | Bowser | Attack Grate Guy |
+| | Mario | Defend |
+
+> If Terrorize misses Knife Guy, all characters should Attack Grate Guy until he dies. Then, Mario uses Fire Orb on Knife Guy while the other two Attack.
+> If Terrorize misses both, Terrorize again
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 6 | SP |
+
+## Booster Hill
+
+- You should have 28 Flowers after this minigame. The following list is where you can get more, from fastest to slowest:
+  - Secret path in Boostar Hill
+  - In crates in corner at Sunken Ship
+  - Hidden chest above plant near secret path
+  - Chest in small room after Sea star (Go to right instead of left)
+  - Vault in Mushroom Kingdom
+- If you get 32 Flowers total you can use an extra Shocker on Yaridovich as a backup.
+
+## Marrymore
+
+- Talk to yellow toad on the right of the chapel door
+- Enter from the back
+- Leave and re-enter room to pull Bowser out faster
+- If you don't get the kiss, RESET
+
+### Bundt and Raspberry
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Bundt | - | 65 | 10 | 25 | 50 | 25 | 0 | All but Jump and Silence | Jump | |
+| Raspberry | 600 | 70 | 20 | 30 | 30 | 0 | 0 | All but Jump and Silence | Jump | |
+
+| | Character | Action |
+| --: | :-- | :-- |
+| 1 | Geno | Attack |
+| | Bowser | Attack |
+| | Mario | Attack |
+| 2 | Geno | Attack |
+| | Bowser | Attack |
+| | Mario | Red Essense Self |
+| 3 | Geno | Attack |
+| | Bowser | Untimed Attack |
+| | Mario | Untimed Attack |
+| 4+ | Geno | Untimed Attack |
+| | Bowser | Untimed Attack |
+| | Mario | Untimed Attack |
+
+> - Do this until Raspberry phase starts
+> - If Geno dies, revive with Bowser
+
+| | Character | Action |
+| --: | :-- | :-- |
+| | Geno | Attack |
+| | Bowser | Attack |
+| | Mario | Jump |
+
+> - If Bowser is feared during Raspberry phase, Geno heals Bowser with Able Juice
+> - If Geno dies during Raspberry phase, it is safe to revive him but will probably be fine to push on
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 6 | ATK |
+
+## Cutscenes
+
+### Mushroom Kingdom
+
+- Get the Cricket Pie
+- Return the Wallet, talk again for Frog Coin
+- Get Toadstool
+
+### Tadpole Pond
+
+- Return Cricket Pie
+- Talk again to hear about Star Hill
+
+### Booster Pass Secret
+
+- Get KeroKero Cola, Frog Coin, and Flower
+
+## Star Hill
+
+### Room 1
+
+- Bottom middle
+- Rightmost
+- Bottom left
+- Upper left
+- Upper right
+
+### Room 2
+
+- Upper right
+- Bottom right
+- Bottom middle
+- Lower left
+- Middle
+- Upper left
+
+# Room 3
+
+- Bottom middle
+- Lower left
+- Middle
+- Upper left
+- Upper middle 
+- Star in the upper right
+- Middle right
+
+## Seaside Town
+
+- Talk to the Elder
+- Buy the Exp. Booster for 22 Frog Coins
+- Go to the first shop on the left
+
+> Note: Sell before reaching 999!!
+
+| Sell | # |
+| :-- | --: |
+| Pick Me Up | All |
+| Able Juice | All |
+
+| Buy | # |
+| :-- | --: |
+| Fright Bomb | 1 |
+| Fire Bomb | 4 |
+
+| Sell | # |
+| :-- | --: |
+| KeroKero Cola | All (2) |
+| Flower Tab | All (5) |
+
+| Buy | # |
+| :-- | --: |
+| Fire Bomb | 2 |
+| Ice Bomb | 2 |
+
+| Sell | # |
+| :-- | --: |
+| Flower Jar | 1 |
+| Flower Box | 1 |
+
+| Buy | # |
+| :-- | --: |
+| Fright Bomb | 1 |
+| Fire Bomb | 1 |
+| Ice Bomb | 2 |
+
+| Sell | # |
+| :-- | --: |
+| Flower Jar | 1 |
+| Goodie bag | 1 |
+
+| Buy | # |
+| :-- | --: |
+| Ice Bomb | 3 |
+
+| Sell | # |
+| :-- | --: |
+| Flower Jar | 1 |
+
+| | Mario | Bowser | Geno | Mallow | Toadstool
+| --- | :-- | :-- | :-- | :-- | :-- |
+| :punch: | **Unequip** | | **Unequip** | **Unequip** | **Unequip**
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* | *Work Pants* | **Unequip**
+| :ring: | **Exp. Booster** | **Unequip** | **Amulet** | **Unequip** | **Zoom Shoes**
+
+| Sell | # |
+| :-- | --: |
+| Equipment | All |
+
+| Buy | # |
+| :-- | --: |
+| Fright Bomb | 1 |
+| Ice Bomb | 3 |
+
+> Buy 2 extra Ice Bombs if Croco dropped a Flower Box
+
+## Sea
+
+- Star swap glitch
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Mallow | :arrow_forward: | Toadstool |
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 7 | HP | |
+| Mario | 8 | SP | |
+| Bowser | 9 | ATK | |
+| Geno | 8 | HP | |
+| Mallow | 7 | HP | |
+| Toadstool | 10 | SP | Shocker |
+
+## Sunken Ship
+
+- Flower in crates in room with rats
+- 100 Coins in the same room
+- Buy Hurly Gloves from Shaman
+
+| | Mario | Bowser | Geno | Mallow
+| --- | :-- | :-- | :-- | :-- |
+| :punch: | | **Hurly Gloves** | | |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* | *Work Pants*
+| :ring: | **Amulet** | | | **Exp. Booster** 
+
+- Password is as follows
+
+```
+0 3 2
+4 2 0
+```
+
+### King Calamari
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Tentacles, Left | 260 | 82 | 50 | 35 | 40 | 0 | 0 | Sleep, Silence | Fire | |
+| Tentacles, Right | 200 | 87 | 70 | 25 | 35 | 23 | 0 | Sleep, Silence | Fire | |
+| King Calamari | 800 | 100 | 80 | 30 | 40 | 100 | 100 | All ailments | Fire | |
+
+#### Phase 1
+
+| | Character | Action 
+| --: | :-- | :-- 
+| 1 | Geno | Untimed Boost Bowser 
+| | Bowser | Fire Bomb 
+
+#### Phase 2
+
+| | Character | Action 
+| --: | :-- | :-- 
+| | Mario | Fire Bomb  
+| 2 | Geno | Defend 
+| | Mario | Attack 
+
+#### Phase 3
+
+| | Character | Action 
+| --: | :-- | :-- 
+| | Bowser | Fire Bomb 
+| 3 | Geno | Defend 
+| | Mario | Jump 
+| | Bowser | Fire Bomb 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 8 | SP |
+
+- Get KeroKero Cola in mirror room
+- Get Safety Ring from Blooper room
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Bowser | :arrow_forward: | Mallow |
+
+| | Mario | Mallow | Geno | Toadstool
+| --- | :-- | :-- | :-- | :-- |
+| :punch: | | | | |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* | 
+| :ring: | *Amulet* | **Unequip** | **Safety Ring** | **Exp. Booster** 
+
+### Bandana Reds
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 120 | 78 | 60 | 25 | 25 | 18 | 10 | | Fire, Thunder | Mushroom (???%) |
+
+| | Character | Action 
+| --: | :-- | :-- 
+| | Geno | Untimed Boost Mallow 
+| | Mallow | Thunderbolt 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Geno | 9 | ATK |
+| Bowser | 10 | ATK |
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Mallow | :arrow_forward: | Bowser |
+
+### Jonathan Jones
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Bandana Blues | 150 | 80 | 60 | 20 | 30 | 20 | 0 | | Fire, Thunder | |
+| Jonathan Jones | 820 | 85 | 80 | 25 | 60 | 90 | 50 | | Sleep | |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Sleepy Bomb | |
+| | Bowser | Fright Bomb | |
+| | Mario | Jump | 85 |
+| 2 | Geno | Defend | |
+| | Bowser | Attack | |
+| | Mario | Jump | 87 |
+| 3 | Geno | Defend | |
+| | Bowser | Attack | |
+| | Mario | Jump | |
+| 4 | Geno | Sleepy Bomb | |
+| | Bowser | Attack | |
+| | Mario | Jump | |
+| 5+ | Geno | Defend | |
+| | Bowser | Attack | |
+| | Mario | Jump/Attack | |
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 9 | ATK | |
+| Toadstool | 11 | SP | Sleepy Time |
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Bowser | :arrow_forward: | Toadstool |
+| Bowser | :arrow_forward: | Mallow |
+
+| | Mario | Toadstool | Geno | Mallow
+| --- | :-- | :-- | :-- | :-- |
+| :punch: | | | | |
+| :shirt: | *Work Pants* | **Work Pants** | *Work Pants* | **Unequip**
+| :ring: | **Exp. Booster** | **Amulet** | *Safety Ring* |  
+
+### Yaridovich
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 1500 | 125 | 85 | 70 | 75 | 120 | 50 | All ailments | Thunder | |
+
+| | Character | Action | DMG |
+| --: | :-- | :-- | --: |
+| 1 | Geno | Timed Boost Toadstool | |
+| | Mario | Defend | |
+| | Toadstool | Shocker | 243 |
+| 2 | Geno | Timed Boost Mario | |
+| | Mario | KeroKero Cola | |
+| | Toadstool | Shocker | 243 |
+| 3 | Geno | Heal/Fire Bomb | |
+| | Mario | Ice Bomb/Fire Bomb | |
+| | Toadstool | Shocker | 243 |
+| 4 | Geno | Ice Bomb | |
+| | Mario | Ice Bomb | |
+| | Toadstool | Shocker | 243 |
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 9 | SP |
+
+- Free the citizens and receive Flower Box
+- Talk to Elder
+- Go the the shop (middle door)
+
+| Buy | # |
+| :-- | --: |
+| Troopa Shell | 1 |
+| Double Punch | 1 |
+| Parasol | 1 |
+
+| Sell | # |
+| :-- | --: |
+| Mushroom | All |
+| Froggie Drink | All |
+| Flower Box | 1 |
+
+## Land's End
+
+- Can get Red Essence in first room
+- Platform your way to the desert
+
+### Shoguns
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 150 | 100 | 80 | 1 | 32 | 24 | 10 | Fear, Sleep | Ice | Pick Me Up (???%)|
+
+- If you freebied any Fire Bombs, Geno Boost Mario and use the first
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Geno | :arrow_forward: | Mallow |
+
+| | Mario | Toadstool | Mallow
+| --- | :-- | :-- | :-- |
+| :punch: | | |
+| :shirt: | **Unequip** | **Unequip** | |
+| :ring: | *Exp. Booster* | **Unequip** | |
+
+- Use one Ice Bomb per battle
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 10 | HP | Super Flame |
+| Geno | 10 | HP | |
+| Bowser | 11 | ATK | |
+
+## Land's End Underground
+
+### Cycle 1
+
+- Star 1: Kill all but one Chow
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 11 | SP | |
+| Mario | 12 | ATK | |
+| Toadstool | 12 | ATK | |
+| Mallow | 10 | SP | Shocker |
+| Geno | 11 | ATK | Geno Whirl |
+
+- Star 2: Kill all geckos
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 13 | HP | |
+| Toadstool | 13 | HP | Come Back |
+| Mallow | 11 | SP | |
+| Bowser | 12 | ATK | Poison Gas |
+
+- Suicide on Chow
+
+### Cycle 2
+
+- Star 3: Kill all but one Chow
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 14 | SP | Ultra Jump |
+| Mallow | 12 | SP | |
+| Geno | 12 | ATK | |
+| Bowser | 13 | ATK | |
+
+- Star 4: Swap glitch, kill all geckos
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Mallow | :arrow_forward: | Toadstool |
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Toadstool | 14 | SP | Snowy |
+
+- Suicide on Chow
+
+### Cycle 3
+
+- Star 5: Kill all but one Chow
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 15 | ATK |
+| Mario | 16 | HP |
+| Mallow | 13 | SP | 
+| Mallow | 13 | HP |
+
+- Star 6: Kill all geckos
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mario | 14 | ATK |
+
+- Suicide on Chow
+
+### Cycle 4
+
+- Star 7: Kill everything
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 17 | SP | |
+| Toadstool | 15 | ATK | Mute |
+| Mallow | 14 | HP | Snowy |
+| Geno | 14 | ATK | Geno Blast |
+
+- Star 8: Kill everything
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Mario | 18 | ATK | Ultra Flame |
+| Bowser | 15 | ATK | Crusher |
+
+## Belome Temple
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Toadstool | :arrow_forward: | Bowser |
+| Mallow | :arrow_forward: | Geno |
+
+| | Mario | Bowser | Geno
+| --- | :-- | :-- | :-- |
+| :punch: | **Troopa Shell** | *Hurly Gloves* | **Double Punch** |
+| :shirt: | **Work Pants** | *Work Pants* | *Work Pants* |
+| :ring: | *Exp. Booster* | | *Safety Ring* |
+
+- Pay 100 Coins to trampoline Shaman
+- Left, Center, Right for fortune
+- Get 150 Coins and 3 Frog Coins from the room after
+
+### Belome
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Belome | 1200 | 120 | 80 | 20 | 40 | 80 | 20 | Sleep | Thunder | |
+| Mario Clone | 200 | 100 | 90 | 33 | 55 | 0 | 0 | All but Thunder and Ice | | |
+| Geno Clone | 250 | 120 | 80 | 60 | 30 | 0 | 0 | All but Jump, Fire, and Thunder | | |
+| Bowser Clone | 300 | 130 | 100 | 12 | 0 | 0 | 0 | All but Thunder and Ice | Ice | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Fright Bomb | 
+| | Mario | Attack | 
+| | Bowser | Attack |
+| 2+ | Geno | Attack | 
+| | Mario | Attack | 
+| | Bowser | Attack |
+
+> Use Geno Blast to kill the clones.
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Geno | 15 | ATK |
+
+### Monstro Town
+
+- Talk to star
+- Talk to Monster Mama
+- Head back through Belome Temple to Land's End
+
+### Sky Troopas
+
+- Do the first cycle sub-12 to get the Troopa Pin
+- Get sub-11 to get 5 Frog Coins
+- Get 35 Frog coins here (leave with 38 Frog Coins)
+
+### Tadpole Pond
+
+| Buy | # |
+| :-- | --: |
+| Sleepy Bomb | 3 |
+| Crystallines | 3 |
+| Power Blast | 4 |
+
+## Bean Vally
+
+- Right Pipe
+- Left Pipe
+
+| Switch From | | Switch To |
+| :-- | --- | :-- |
+| Bowser | :arrow_forward: | Toadstool |
+
+| | Mario | Bowser | Geno
+| --- | :-- | :-- | :-- |
+| :punch: | *Troopa Shell* | **Parasol** | **Double Punch** |
+| :shirt: | *Work Pants* | **Work Pants** | *Work Pants* |
+| :ring: | **Troopa Pin** | **Safety Ring** | **Exp. Booster** |
+
+### Megasmilax
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Smilax | 1200 | 120 | 80 | 20 | 40 | 80 | 20 | Sleep | Thunder | |
+| Megasmilax | 200 | 100 | 90 | 33 | 55 | 0 | 0 | All but Thunder and Ice | | |
