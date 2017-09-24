@@ -1341,3 +1341,380 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | | LV | Bonus |
 | :-- | --: | :-- |
 | Mario | 19 | HP |
+
+### OnTheBus
+
+- Cutscenes
+- Can do Nimbus manip here if you're not getting Lazy Shell
+- Mario's Pad Manip
+
+## Bowser's Castle
+
+### Door 1
+
+- Quiz
+- Barrel minigame, first is base 12, second is base 43
+- Race questions, as detailed below:
+
+Place | Answer
+:-- | :--
+1st | I outrode #2 on my bike, and #2 was never able to pass me.
+2nd | I fell into 4th place during the bike race, but finally ended up in the same place as I did in the swimming event.
+3rd | I placed the same in the swimming and cycling events, but 2 others beat me in the marathon.
+4th | I came in 3rd for swimming...
+
+- Get the Rock Candy
+
+### Door 2
+
+- Count total coins and take 4 at a time until 10, then again until 15.
+- The next puzzle is easy, like, come on.
+- For the final puzzle:
+
+```
+0  1  2* 3
+4  5  6  7
+8  9  10 11
+12 13 14 15
+
+10 UP
+ 4 RIGHT
+12 UP
+13 UP
+ 1 DOWN
+ 3 LEFT
+ 7 LEFT
+15 LEFT
+ 0 RIGHT
+ 4 RIGHT
+13 UP
+ 5 RIGHT
+11 UP
+ 3 LEFT
+```
+
+- Take Rock Candy
+
+### Door 4
+
+- Take Fright Bomb before gap
+- Take Ice Bomb and Rock Candy on the left
+- Get Fire Bomb next to the exit in Room 2
+- Take Super Slap
+
+### Door 5
+
+- Get KeroKero Cola after final platform in Room 1
+- Get Rock Candy in the last chest on the right chest in Room 2
+- Get Fire Bomb and KeroKero Cola in the last to left chests of Room 3
+- Do NOT get Sonic Cymbals
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Mega Glove* | **Super Slap** | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | *Troopa Pin* | *Zoom Shoes* | *Safety Ring* |
+
+### Magikoopa
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Magikoopa | 1600 | 100 | 60 | 120 | 100 | 0 | 0 | Poison, Sleep, Silence | | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Attack | 
+| | Geno | Fright Bomb | 
+| | Toadstool | Attack | 
+| 2+ | Mario | Attack | 
+| | Geno | Attack | 
+| | Toadstool | Attack | 
+
+> If Bahamutt is summoned, he can be killed with a Geno Whirl
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Geno | 16 | HP |
+
+### Boomer
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 2000 | 200 | 140 | 35 | 26 | 0 | 0 | All ailments | | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Ultra Jump | 
+| | Geno | Boost Toadstool | 
+| | Toadstool | Shocker | 
+| 2 | Mario | Ultra Jump | 
+| | Geno | Maple Syrup | 
+| | Toadstool | Shocker | 
+| 3 | Mario | Ultra Flame | 
+| | Geno | Attack | 
+| | Toadstool | Shocker | 
+
+> If Boomer turns blue, Attack
+
+### Exor
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Super Flame on Right Eye | 
+| | Geno | Geno Whirl on Exor | 
+
+## Factory
+
+- Get the Ultra Hammer before Count Down
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | **Ultra Hammer** | *Super Slap* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | *Troopa Pin* | **Safety Ring** | **Exp. Booster** |
+
+### Count Down
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Ding-a-Ling | 1200 | 180 | 120 | 20 | 50 | 30 | 0 | Fear, Poison, Silence | Ice | |
+| Count Down | 2400 | 0 | 80 | 120 | 80 | 140 | 100 | All ailments | Jump, Thunder | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Rock Candy | 
+| | Geno | Boost Toadstool | 
+| | Toadstool | Rock Candy | 
+| 2 | Mario | Ultra Jump | 
+| | Geno | Geno Blast | 
+| | Toadstool | Rock Candy | 
+| 3+ | Mario | Attack/Ultra Jump | 
+| | Geno | Attack/Geno Blast | 
+| | Toadstool | Attack/Shocker | 
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Ultra Hammer* | *Super Slap* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | *Troopa Pin* | *Safety Ring* | **Amulet** |
+
+- Platform through the area
+- Bowyer skip
+
+### Machine Made Yaridovich
+
+| HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| 800 | 180 | 130 | 90 | 50 | 180 | 50 | All ailments | | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Mario | Ultra Jump | 
+| | Geno | Attack | 
+| | Toadstool | Attack | 
+| 2 | Mario | Attack/Jump | 
+| | Geno | Attack | 
+| | Toadstool | Attack | 
+
+| | LV | Bonus |
+| :-- | --: | :-- |
+| Mallow | 16 | HP |
+
+- Group hug on the field, Maple Syrup after
+
+### Cloaker and Domino
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Cloaker | 1200 | 170 | 130 | 12 | 20 | 60 | 0 | All ailments | | |
+| Mad Adder | 1500 | 150 | 70 | 90 | 180 | 200 | 0 | All ailments | | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Toadstool | Crystalline | 
+| | Geno | Power Blast | 
+| | Mario | Super Flame |
+| 2 | Toadstool | Shocker | 
+| | Geno | Geno Beam | 
+| | Mario | Jump |
+
+#### Mad Adder Phase
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 3+ | Toadstool | Group Hug/Attack | 
+| | Geno | Attack | 
+| | Mario | Attack |
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Ultra Hammer* | *Super Slap* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | *Troopa Pin* | **Zoom Shoes** | **Feather** |
+
+## Assembly Line
+
+### Mad Mallets
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Attack A | 
+| | Mario | Attack B |
+| | Toadstool | Attack A | 
+
+### Clerk
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Attack Clerk | 
+| | Mario | Attack Clerk |
+| | Toadstool | Attack Clerk | 
+| 2 | Geno | Attack A | 
+| | Mario | Attack B |
+| | Toadstool | Attack A | 
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Toadstool | 18 | ATK | Psych Bomb |
+
+- Buy from Toad, receive Rock Candy after
+
+| Buy | # |
+| :-- | --: |
+| Mid Mushroom | 5 |
+| Maple Syrup | 1 |
+
+### Manager
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Untimed Boost Geno | 
+| | Mario | Attack Manager |
+| | Toadstool | Sleepy Bomb | 
+| 2 | Geno | Geno Blast | 
+| | Mario | Jump |
+| | Toadstool | Defend | 
+| 3 | Geno | Attack | 
+| | Mario | Attack |
+| | Toadstool | Attack | 
+
+| | LV | Bonus | Moves Learned
+| :-- | --: | :-- | :-- |
+| Geno | 17 | ATK | Geno Flash |
+| Bowser | 17 | HP | |
+
+### Director
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Attack Director | 
+| | Mario | Attack Director |
+| | Toadstool | Sleepy Bomb | 
+| 2 | Geno | Untimed Boost Toadstool | 
+| | Mario | Jump |
+| | Toadstool | Fire Bomb | 
+| 3 | Geno | Attack | 
+| | Mario | Attack |
+| | Toadstool | Attack | 
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Ultra Hammer* | *Super Slap* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | **Zoom Shoes** | **Troopa Pin** | *Feather* |
+
+### Gun Yolk and Factory Chief
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Gun Yolk | 1500 | 200 | 130 | 120 | 80 | 0 | 0 | Fire | | |
+| Factory Chief | 1000 | 200 | 120 | 70 | 90 | 0 | 0 | Thunder | | |
+
+| | Character | 1 Ice Bomb | 2 Ice Bombs |
+| --: | :-- | :-- | :-- |
+| 1 | Geno | Sleepy Bomb | Sleepy Bomb |
+| | Toadstool | Power Blast | Power Blast |
+| | Mario | Ice Bomb | Ice Bomb |
+| 2 | Geno | Defend | Defend |
+| | Toadstool | Shocker on Gun Yolk | Shocker on Gun Yolk |
+| | Mario | Jump | Ice Bomb |
+| 3+ | Geno | Attack | Attack |
+| | Toadstool | Shocker on Gun Yolk | Shocker on Gun Yolk |
+| | Mario | Attack | Attack |
+
+| | Mario | Toadstool | Geno |
+| --- | :-- | :-- | :-- |
+| :punch: | *Ultra Hammer* | *Super Slap* | *Double Punch* |
+| :shirt: | *Work Pants* | *Work Pants* | *Work Pants* |
+| :ring: | **Troopa Pin** | **Safety Ring** | *Feather* |
+
+## Smithy
+
+### Phase 1
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Smithy | 2000 | 230 | 130 | 100 | 100 | 0 | 0 | All ailments | | |
+| Shyper | 400 | 170 | 80 | 70 | 50 | 0 | 0 | All ailments | | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Crystalline | 
+| | Mario | Attack |
+| | Toadstool | Power Blast | 
+| 2 | Geno | Attack | 
+| | Mario | Attack |
+| | Toadstool | Attack | 
+| 3 | Geno | Rock Candy | 
+| | Mario | Untimed Attack on Shyper |
+| | Toadstool | Group Hug | 
+| 4 | Geno | Attack | 
+| | Mario | Attack |
+| | Toadstool | Attack | 
+| 5 | Geno | Rock Candy | 
+| | Mario | Untimed Attack on Shyper |
+| | Toadstool | Group Hug | 
+| 6 | Geno | Attack | 
+| | Mario | Jump |
+| | Toadstool | Attack |
+
+### Phase 2 
+
+| Enemy | HP | ATK | DEF | M.A | M.D | XP | Coins | Defenses | Weaknesses | Item |
+| :-- | --: | --: | --: | --: | --: | --: | --: | :-- | :-- | :-- |
+| Smithy | 8000 | 180 | 80 | 60 | 50 | 0 | 0 | All ailments | | |
+| Magic Head | 8000 | 135 | 50 | 130 | 150 | 0 | 0 | All except Jump | | |
+| Mask Head | 8000 | 40 | 150 | 70 | 100 | 0 | 0 | All except Ice | Ice | |
+| Tank Head | 8000 | 250 | 130 | 10 | 50 | 0 | 0 | All ailments | Thunder | |
+| Trasure Head | 8000 | 150 | 120 | 78 | 80 | 0 | 0 | Thunder, All ailments | Fire | |
+
+| | Character | Action | 
+| --: | :-- | :-- |
+| 1 | Geno | Attack | 
+| | Mario | Attack |
+| | Toadstool | Attack | 
+| 2 | Geno | Red Essence Geno or Mario/Attack | 
+
+#### Tank Head
+
+- **Mario and Geno**: Heal
+- **Toadstool**: Shocker 
+
+#### Magic Head
+
+- **Mario and Geno**: Attack
+- **Toadstool**: Heal 
+
+#### Treasure Head
+
+- **Mario and Geno**: Attack, prefer fire attacks
+- **Toadstool**: Heal 
+
+#### Mask Head
+
+- **Mario and Geno**: Attack, prefer ice attacks
+- **Toadstool**: Heal
+
+## Happy Parade, Delightful Parade
+
+- The End 
