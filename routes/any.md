@@ -996,7 +996,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | Mario | 15 | ATK |
 | Mario | 16 | HP |
 | Mallow | 13 | SP | 
-| Mallow | 13 | HP |
+| Geno | 13 | HP |
 
 - Star 6: Kill all geckos
 
@@ -1085,7 +1085,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | Crystallines | 3 |
 | Power Blast | 4 |
 
-## Bean Vally
+## Bean Valley
 
 - Right Pipe
 - Left Pipe
@@ -1094,7 +1094,7 @@ Japanese version saves ~9 minutes in text. Official rankings no longer give the 
 | :-- | --- | :-- |
 | Bowser | :arrow_forward: | Toadstool |
 
-| | Mario | Bowser | Geno
+| | Mario | Toadstool | Geno
 | --- | :-- | :-- | :-- |
 | :punch: | *Troopa Shell* | **Parasol** | **Double Punch** |
 | :shirt: | *Work Pants* | **Work Pants** | *Work Pants* |
