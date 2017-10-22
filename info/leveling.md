@@ -14,13 +14,13 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Base Stats
 
- LV |  HP | ATK | DEF | M.A | M.D
---: | --: | --: | --: | --: | --: 
-  1 |  20 |  20 |   0 |  10 |   2
+|  LV |  HP | ATK | DEF | S.A | S.D |
+| --: | --: | --: | --: | --: | --: |
+|   1 |  20 |  20 |   0 |  10 |   2 |
 
 ### Level Up Stats
 
-|  LV |  EXP |  HP | ATK | DEF | M.A | M.D | Move        |
+|  LV |  EXP |  HP | ATK | DEF | S.A | S.D | Special     |
 | --: |  --: | --: | --: | --: | --: | --: | :--         |
 |   2 |   16 |  +5 |  +3 |  +2 |  +2 |  +2 |             |
 |   3 |   48 |  +5 |  +3 |  +2 |  +2 |  +2 | Fire Orb    |
@@ -44,39 +44,39 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-|     | ATK | DEF |     |  HP |     | M.A | M.D |
-| --: | --: | --: | :-: | --: | :-: | --: | --: |
-   2 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-   3 |  +2 |  +1 |     |  +3 |     |  +1 |  +1 
-   4 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-   5 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-   6 |  +2 |  +1 |     |  +3 |     |  +1 |  +1
-   7 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-   8 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-   9 |  +2 |  +1 |     |  +3 |     |  +1 |  +1
-  10 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-  11 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-  12 |  +2 |  +1 |     |  +3 |     |  +1 |  +1
-  13 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-  14 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-  15 |  +2 |  +1 |     |  +3 |     |  +1 |  +1
-  16 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-  17 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
-  18 |  +2 |  +1 |     |  +3 |     |  +1 |  +1
-  19 |  +1 |  +1 |     |  +4 |     |  +1 |  +1
-  20 |  +1 |  +1 |     |  +3 |     |  +3 |  +1
+|     |  ATK |  DEF |     HP |  S.A |  S.D |
+| --: |  --: |  --: |    --: |  --: |  --: |
+|   2 |   +1 | +1   |   +3   | **+3 | +1** |
+|   3 | **+2 | +1** |   +3   |   +1 | +1   |
+|   4 |   +1 | +1   | **+4** |   +1 | +1   |
+|   5 |   +1 | +1   |   +3   | **+3 | +1** |
+|   6 | **+2 | +1** |   +3   |   +1 | +1   |
+|   7 |   +1 | +1   | **+4** |   +1 | +1   |
+|   8 |   +1 | +1   |   +3   | **+3 | +1** |
+|   9 | **+2 | +1** |   +3   |   +1 | +1   |
+|  10 |   +1 | +1   | **+4** |   +1 | +1   |
+|  11 |   +1 | +1   |   +3   | **+3 | +1** |
+|  12 | **+2 | +1** |   +3   |   +1 | +1   |
+|  13 |   +1 | +1   | **+4** |   +1 | +1   |
+|  14 |   +1 | +1   |   +3   | **+3 | +1** |
+|  15 | **+2 | +1** |   +3   |   +1 | +1   |
+|  16 |   +1 | +1   | **+4** |   +1 | +1   |
+|  17 |   +1 | +1   |   +3   | **+3 | +1** |
+|  18 | **+2 | +1** |   +3   |   +1 | +1   |
+|  19 |   +1 | +1   | **+4** |   +1 | +1   |
+|  20 |   +1 | +1   |   +3   | **+3 | +1** |
 
 ## Mallow
 
 ### Base Stats
 
- LV |  HP | ATK | DEF | M.A | M.D
+ LV |  HP | ATK | DEF | S.A | S.D
 --: | --: | --: | --: | --: | --: 
   2 |  20 |  22 |   3 |  15 |  10
 
 ### Level Up Stats
 
-|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+|     |  EXP |  HP | ATK | DEF | S.A | S.D |
 | --: |  --: | --: | --: | --: | --: | --: |
    3 |   48 |  +4 |  +2 |  +3 |  +2 |  +2
    4 |   84 |  +4 |  +2 |  +3 |  +2 |  +2
@@ -99,7 +99,7 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-|     | ATK | DEF |     |  HP |     | M.A | M.D |
+|     | ATK | DEF |     |  HP |     | S.A | S.D |
 | --: | --: | --: | :-: | --: | :-: | --: | --: |
    3 |  +3 |  +1 |     |  +4 |     |  +1 |  +1 
    4 |  +1 |  +1 |     |  +6 |     |  +1 |  +1
@@ -124,13 +124,13 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Base Stats
 
- LV |  HP | ATK | DEF | M.A | M.D
+ LV |  HP | ATK | DEF | S.A | S.D
 --: | --: | --: | --: | --: | --: 
   6 |  45 |  60 |  23 |  25 |  17
 
 ### Level Up Stats
 
-|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+|     |  EXP |  HP | ATK | DEF | S.A | S.D |
 | --: |  --: | --: | --: | --: | --: | --: |
    7 |  290 |  +8 |  +5 |  +3 |  +4 |  +2
    8 |  402 |  +8 |  +5 |  +3 |  +4 |  +2
@@ -149,7 +149,7 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-|     | ATK | DEF |     |  HP |     | M.A | M.D |
+|     | ATK | DEF |     |  HP |     | S.A | S.D |
 | --: | --: | --: | :-: | --: | :-: | --: | --: |
    7 |  +1 |  +1 |     |  +6 |     |  +1 |  +1
    8 |  +1 |  +1 |     |  +5 |     |  +3 |  +1
@@ -170,13 +170,13 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Base Stats
 
- LV |  HP | ATK | DEF | M.A | M.D
+ LV |  HP | ATK | DEF | S.A | S.D
 --: | --: | --: | --: | --: | --: 
   8 |  80 |  85 |  52 |  20 |  30
 
 ### Level Up Stats
 
-|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+|     |  EXP |  HP | ATK | DEF | S.A | S.D |
 | --: |  --: | --: | --: | --: | --: | --: |
    9 |  538 |  +8 |  +3 |  +3 |  +4 |  +2
   10 |  700 |  +8 |  +3 |  +3 |  +4 |  +2
@@ -193,7 +193,7 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-|     | ATK | DEF |     |  HP |     | M.A | M.D |
+|     | ATK | DEF |     |  HP |     | S.A | S.D |
 | --: | --: | --: | :-: | --: | :-: | --: | --: |
    9 |  +2 |  +1 |     |  +1 |     |  +1 |  +1
   10 |  +1 |  +1 |     |  +3 |     |  +1 |  +1
@@ -212,13 +212,13 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
 
 ### Base Stats
 
- LV |  HP | ATK | DEF | M.A | M.D
+ LV |  HP | ATK | DEF | S.A | S.D
 --: | --: | --: | --: | --: | --: 
   9 |  50 |  40 |  24 |  40 |  28
 
 ### Level Up Stats
 
-|     |  EXP |  HP | ATK | DEF | M.A | M.D |
+|     |  EXP |  HP | ATK | DEF | S.A | S.D |
 | --: |  --: | --: | --: | --: | --: | --: |
   10 |  700 |  +4 |  +1 |  +3 |  +4 |  +2
   11 |  890 |  +5 |  +2 |  +3 |  +4 |  +3
@@ -234,7 +234,7 @@ via [this guide](https://www.gamefaqs.com/snes/588739-super-mario-rpg-legend-of-
   
 ### Bonus Stats
   
-|     | ATK | DEF |     |  HP |     | M.A | M.D |
+|     | ATK | DEF |     |  HP |     | S.A | S.D |
 | --: | --: | --: | :-: | --: | :-: | --: | --: |
   10 |  +1 |  +1 |     |  +9 |     |  +1 |  +1
   11 |  +1 |  +1 |     |  +5 |     |  +3 |  +1
